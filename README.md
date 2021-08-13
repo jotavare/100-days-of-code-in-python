@@ -16,7 +16,7 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the Unlicense. See `LICENSE` for more information.
 
 
 
