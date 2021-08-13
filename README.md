@@ -11,4 +11,4 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 ## Contents
 
-- <b>Day 1</b> - [Working with Variables in Python to Manage Data](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%201)
+- <b>Day 1</b> - [Working with Variables in Python to Manage Data](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/Day%201)
