@@ -37,17 +37,17 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
     - Python variables and variable naming;
 
     Projects created:
-    - Program that adds the digits in a 2 digit number;
-    - Body Mass Index (BMI) calculator;
-    - Life in weeks calculator (until 90 years old);
-    - Tip Calculator;
+    - Add the digits in a 2 digit number; (https://lnkd.in/gXjARgup)
+    - Body Mass Index (BMI) calculator; (https://lnkd.in/g_MQqGhX)
+    - Life in weeks calculator (until 90 years old); (https://lnkd.in/gVSXVK48)
+    - Tip Calculator; (https://lnkd.in/gBbKAyiq)
 
 - <b>Day 3</b> - [Control Flow and Logical Operators](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/Day%203)
 
     What i learned:
-    - Control Flow with if / else and Conditional Operators
-    - Nested if statements and elif statements
-    - Multiple If Statements in Succession
+    - Control Flow with if / else and Conditional Operators;;
+    - Nested if statements and elif statements;
+    - Multiple If Statements in Succession;
 
     Projects created (click the link to try):
     - Odd and even number checker; (https://lnkd.in/guKQ5r35)
