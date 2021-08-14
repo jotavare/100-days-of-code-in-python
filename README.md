@@ -36,7 +36,7 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
     - Number Manipulation and F Strings in Python;
     - Python variables and variable naming;
 
-    Projects created:
+    Projects created (click the link to try):
     - Add the digits in a 2 digit number; (https://lnkd.in/gXjARgup)
     - Body Mass Index (BMI) calculator; (https://lnkd.in/g_MQqGhX)
     - Life in weeks calculator (until 90 years old); (https://lnkd.in/gVSXVK48)
