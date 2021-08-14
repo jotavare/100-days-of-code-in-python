@@ -26,8 +26,36 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
     - Print the number of characters in a user's name;
     - Write a program taht switches the values stored (A & B);
     - Create a Band Name Generator;
+    
 - <b>Day 2</b> - [Understanding Data Types and How to Manipulate Strings](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/Day%202)
+
+    What i learned:
+    - Primitive Data Types;
+    - Type Error, Type Checking and Type Conversion;
+    - Mathematical Operations in Python;
+    - Number Manipulation and F Strings in Python;
+    - Python variables and variable naming;
+
+    Projects created:
+    - Program that adds the digits in a 2 digit number;
+    - Body Mass Index (BMI) calculator;
+    - Life in weeks calculator (until 90 years old);
+    - Tip Calculator;
+
 - <b>Day 3</b> - [Control Flow and Logical Operators](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/Day%203)
+
+    What i learned:
+    - Control Flow with if / else and Conditional Operators
+    - Nested if statements and elif statements
+    - Multiple If Statements in Succession
+
+    Projects created (click the link to try):
+    - Odd and even number checker; (https://lnkd.in/guKQ5r35)
+    - BMI calculator with interpretation; (https://lnkd.in/gsCPQ-Zw)
+    - Leap Year checker; (https://lnkd.in/gQQGNA_B)
+    - Automatic pizza order program; (https://lnkd.in/gsxQmxBy)
+    - Love calculator; (https://lnkd.in/gJMbFZVi)
+    - Treasure island game; (https://lnkd.in/g_uD_-9w)
 
 <!-- LICENSE -->
 ## License
