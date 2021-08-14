@@ -35,7 +35,3 @@ if extra_cheese == "N":
 elif extra_cheese == "Y":
   bill += 1
   print(f"Your final bill is: {bill}€.")
-
-
-
-
