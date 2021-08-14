@@ -13,12 +13,3 @@ bmi = weight_int / height_float ** 2
 
 # print the text and the BMI as an integer type
 print("Your BMI is:", int(bmi))
-
-
-
-
-
-
-
-
-
