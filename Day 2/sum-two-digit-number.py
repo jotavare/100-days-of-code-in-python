@@ -12,4 +12,4 @@ first_number = int(string_first_number)
 second_number = int(string_second_number)
 
 # prints the sum and gives the ouput
-print("Adding the two digits give a total of:", first_number + second_number)
+print("Adding the two digits, gives a total of:", first_number + second_number)
