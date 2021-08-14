@@ -23,6 +23,6 @@ Distributed under the Unlicense. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+João Oliveira - [instagram/swoky.jpg](https://www.instagram.com/swoky.jpg) - jpoliveira.mm@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python)
