@@ -24,7 +24,7 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
     - Print 3 example quotes; (https://replit.com/@swoky/Print-Example-Quotes)
     - Debugging Practice - Fix the code; (https://replit.com/@swoky/Fix-the-code)
     - Print the number of characters in a name; (https://replit.com/@swoky/Print-Number-of-Characters-in-a-Name)
-    - Write a program taht switches the values stored (A & B); 
+    - Write a program taht switches variables; (https://replit.com/@swoky/Switch-Variables)
     - Create a Band Name Generator; (https://replit.com/@swoky/Band-Name-Generator)
     
 - <b>Day 2</b> - [Understanding Data Types and How to Manipulate Strings](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/Day%202)
@@ -37,10 +37,10 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
     - Python variables and variable naming;
 
     Projects created (click the link to try):
-    - Add the digits in a 2 digit number; (https://lnkd.in/gXjARgup)
-    - Body Mass Index (BMI) calculator; (https://lnkd.in/g_MQqGhX)
-    - Life in weeks calculator (until 90 years old); (https://lnkd.in/gVSXVK48)
-    - Tip Calculator; (https://lnkd.in/gBbKAyiq)
+    - Add the digits in a 2 digit number; (https://replit.com/@swoky/Sum-Two-Digit-Number)
+    - Body Mass Index (BMI) calculator; (https://replit.com/@swoky/BMI-Calculator)
+    - Life in weeks calculator (until 90 years old); (https://replit.com/@swoky/My-Life-in-Days-Weeks-and-Months)
+    - Tip Calculator; (https://replit.com/@swoky/Tip-Calculator)
 
 - <b>Day 3</b> - [Control Flow and Logical Operators](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/Day%203)
 
@@ -50,12 +50,12 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
     - Multiple If Statements in Succession;
 
     Projects created (click the link to try):
-    - Odd and even number checker; (https://lnkd.in/guKQ5r35)
-    - BMI calculator with interpretation; (https://lnkd.in/gsCPQ-Zw)
-    - Leap Year checker; (https://lnkd.in/gQQGNA_B)
-    - Automatic pizza order program; (https://lnkd.in/gsxQmxBy)
-    - Love calculator; (https://lnkd.in/gJMbFZVi)
-    - Treasure island game; (https://lnkd.in/g_uD_-9w)
+    - Odd and even number checker; (https://replit.com/@swoky/Odd-and-Even-Number-Check)
+    - BMI calculator with interpretation; (https://replit.com/@swoky/BMI-Calculator-Interpretation)
+    - Leap Year checker; (https://replit.com/@swoky/Leap-Year-Check)
+    - Automatic pizza order program; (https://replit.com/@swoky/Automatic-Pizza-Order-Program)
+    - Love calculator; (https://replit.com/@swoky/Love-Calculator)
+    - Treasure island game; (https://replit.com/@swoky/Treasure-Island-Game)
 
 - <b>Day 4</b> - [Randomisation and Python Lists](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/Day%204)
 
