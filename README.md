@@ -23,8 +23,8 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
     Projects created:
     - Print 3 example quotes; (https://replit.com/@swoky/Print-Example-Quotes)
     - Debugging Practice - Fix the code; (https://replit.com/@swoky/Fix-the-code)
-    - Print the number of characters in a name;
-    - Write a program taht switches the values stored (A & B);
+    - Print the number of characters in a name; (https://replit.com/@swoky/Print-Number-of-Characters-in-a-Name)
+    - Write a program taht switches the values stored (A & B); 
     - Create a Band Name Generator; (https://replit.com/@swoky/Band-Name-Generator)
     
 - <b>Day 2</b> - [Understanding Data Types and How to Manipulate Strings](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/Day%202)
