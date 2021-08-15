@@ -82,4 +82,4 @@ Distributed under the Unlicense. See `LICENSE` for more information.
 
 João Oliveira - [instagram/swoky.jpg](https://www.instagram.com/swoky.jpg) - jpoliveira.mm@gmail.com
 
-Project Link: [https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python)
+Project Link - [https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python)
