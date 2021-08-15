@@ -22,8 +22,8 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
 
     Projects created:
     - Print 3 example quotes; (https://replit.com/@swoky/Print-Example-Quotes)
-    - Debugging Practice - Fix the code so it runs without erros;
-    - Print the number of characters in a user's name;
+    - Debugging Practice - Fix the code; (https://replit.com/@swoky/Fix-the-code)
+    - Print the number of characters in a name;
     - Write a program taht switches the values stored (A & B);
     - Create a Band Name Generator; (https://replit.com/@swoky/Band-Name-Generator)
     
