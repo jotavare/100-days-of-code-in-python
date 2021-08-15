@@ -21,7 +21,7 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
     - Python variables and variable naming;
 
     Projects created:
-    - Print 3 quotes that match an example;
+    - Print 3 example quotes; (https://replit.com/@swoky/Print-Example-Quotes)
     - Debugging Practice - Fix the code so it runs without erros;
     - Print the number of characters in a user's name;
     - Write a program taht switches the values stored (A & B);
