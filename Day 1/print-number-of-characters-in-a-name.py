@@ -6,11 +6,3 @@ print(len(name))
 
 # Other option, same result
 print(len(input("What's your name? ")))
-
-
-
-
-
-
-
-
