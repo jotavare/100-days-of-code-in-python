@@ -25,7 +25,7 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
     - Debugging Practice - Fix the code so it runs without erros;
     - Print the number of characters in a user's name;
     - Write a program taht switches the values stored (A & B);
-    - Create a Band Name Generator;
+    - Create a Band Name Generator; (https://replit.com/@swoky/Band-Name-Generator)
     
 - <b>Day 2</b> - [Understanding Data Types and How to Manipulate Strings](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/Day%202)
 
