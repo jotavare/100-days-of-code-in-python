@@ -11,5 +11,3 @@ a = second
 # print teh new variables
 print("a: " + a)
 print("b: " + b)
-
-
