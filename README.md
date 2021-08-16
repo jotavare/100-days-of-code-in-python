@@ -83,6 +83,21 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
     - The FizzBuzz Challenge; (https://replit.com/@swoky/Solution-to-FizzBuzz-Game)
     - Create a Password Generator; (https://replit.com/@swoky/Password-Generator)
 
+- <b>Day 6</b> - [Python Functions & Karel](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/Day%206)
+
+    What i learned:
+    - Defining and Calling Python Functions;
+    - Indentation in Python;
+    - While Loops;
+
+     Projects created (click the link to try):
+    - Reeborgs Wolrd Challenge Alone;
+    - Reeborgs Wolrd Challenge 1;
+    - Reeborgs Wolrd Challenge 2;
+    - Reeborgs Wolrd Challenge 3;
+    - Reeborgs Wolrd Challenge 4;
+    - Reeborgs Wolrd Challenge Maze;
+
 <!-- LICENSE -->
 ## License
 
