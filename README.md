@@ -79,7 +79,7 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
      Projects created (click the link to try):
     - Average Height Calculator; (https://replit.com/@swoky/Average-Height-Calculator)
     - Highest Student Score; (https://replit.com/@swoky/Highest-Student-Score)
-    - Adding Even Numbers; (https://replit.com/@swoky/Sum-of-All-Even-Numbers)
+    - Adding Even Numbers; (https://replit.com/@swoky/Sum-of-All-Even-Numbers-1-100)
     - The FizzBuzz Challenge; (https://replit.com/@swoky/Solution-to-FizzBuzz-Game)
     - Create a Password Generator; (https://replit.com/@swoky/Password-Generator)
 
