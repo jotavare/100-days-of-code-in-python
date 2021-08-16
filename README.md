@@ -89,7 +89,7 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
     - Defining and Calling Python Functions;
     - Indentation in Python;
     - While Loops;
-    - 
+
     Projects created:
     - Reeborgs Wolrd Challenge Alone; (https://lnkd.in/gbrWDy6x)
     - Reeborgs Wolrd Challenge 1; (https://lnkd.in/g-8-KuS3)
