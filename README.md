@@ -60,6 +60,19 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
 - <b>Day 4</b> - [Randomisation and Python Lists](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/Day%204)
 
     What i learned:
+    - Using the for loop with Python Lists;
+    - 'for' loops and the range() function;
+
+    Projects created (click the link to try):
+    - Average Height Calculator; (https://replit.com/@swoky/Average-Height-Calculator)
+    - Highest Student Score; (https://replit.com/@swoky/Highest-Student-Score)
+    - Adding Even Numbers; (https://replit.com/@swoky/Sum-of-All-Even-Numbers)
+    - The FizzBuzz Challenge; (https://replit.com/@swoky/Solution-to-FizzBuzz-Game)
+    - Create a Password Generator; (https://replit.com/@swoky/Password-Generator)
+
+- <b>Day 5</b> - [Python Loops](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/Day%205)
+
+    What i learned:
     - Random Modules;
     - Understanding the Offset and Appending Items to Lists;
     - IndexErrors and Working with Nested Lists;
