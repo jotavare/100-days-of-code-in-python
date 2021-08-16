@@ -85,18 +85,18 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
 
 - <b>Day 6</b> - [Python Functions & Karel](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/Day%206)
 
-    What i learned:
+    What I learned:
     - Defining and Calling Python Functions;
     - Indentation in Python;
     - While Loops;
-
-     Projects created:
-    - Reeborgs Wolrd Challenge Alone; (https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/blob/main/Day%206/reeborg-world-challenge-1-alone.png)
-    - Reeborgs Wolrd Challenge 1; (https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/blob/main/Day%206/reeborg-world-challenge-2-hurdle-1.png)
-    - Reeborgs Wolrd Challenge 2; (https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/blob/main/Day%206/reeborg-world-challenge-3-hurdle-2.png)
-    - Reeborgs Wolrd Challenge 3; (https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/blob/main/Day%206/reeborg-world-challenge-4-hurdle-3.png)
-    - Reeborgs Wolrd Challenge 4; (https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/blob/main/Day%206/reeborg-world-challenge-5-hurdle-4.png)
-    - Reeborgs Wolrd Challenge Maze; (https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/blob/main/Day%206/reeborg-world-challenge-final-maze.png)
+    - 
+    Projects created:
+    - Reeborgs Wolrd Challenge Alone; (https://lnkd.in/gbrWDy6x)
+    - Reeborgs Wolrd Challenge 1; (https://lnkd.in/g-8-KuS3)
+    - Reeborgs Wolrd Challenge 2; (https://lnkd.in/gzKH_9xj)
+    - Reeborgs Wolrd Challenge 3; (https://lnkd.in/guZRHDnJ)
+    - Reeborgs Wolrd Challenge 4; (https://lnkd.in/gMcd4EVH)
+    - Reeborgs Wolrd Challenge Maze; (https://lnkd.in/gccycRSQ)
 
 <!-- LICENSE -->
 ## License
