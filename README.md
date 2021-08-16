@@ -90,13 +90,13 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
     - Indentation in Python;
     - While Loops;
 
-     Projects created (click the link to try):
-    - Reeborgs Wolrd Challenge Alone;
-    - Reeborgs Wolrd Challenge 1;
-    - Reeborgs Wolrd Challenge 2;
-    - Reeborgs Wolrd Challenge 3;
-    - Reeborgs Wolrd Challenge 4;
-    - Reeborgs Wolrd Challenge Maze;
+     Projects created:
+    - Reeborgs Wolrd Challenge Alone; (https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/blob/main/Day%206/reeborg-world-challenge-1-alone.png)
+    - Reeborgs Wolrd Challenge 1; (https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/blob/main/Day%206/reeborg-world-challenge-2-hurdle-1.png)
+    - Reeborgs Wolrd Challenge 2; (https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/blob/main/Day%206/reeborg-world-challenge-3-hurdle-2.png)
+    - Reeborgs Wolrd Challenge 3; (https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/blob/main/Day%206/reeborg-world-challenge-4-hurdle-3.png)
+    - Reeborgs Wolrd Challenge 4; (https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/blob/main/Day%206/reeborg-world-challenge-5-hurdle-4.png)
+    - Reeborgs Wolrd Challenge Maze; (https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/blob/main/Day%206/reeborg-world-challenge-final-maze.png)
 
 <!-- LICENSE -->
 ## License
