@@ -70,6 +70,34 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
     - Treasure Map; (https://replit.com/@user/Treasure-Map-Mark-with-X)
     - Rock, Paper, Scissors; (https://replit.com/@user/Rock-Paper-Scissors)
 
+- <b>Day 5</b> - [Python Loops](https://github.com/jotavare/100-Days-of-Code-in-Python/tree/main/Day%205)
+
+    What i learned:
+    - Using the for loop with Python Lists;
+    - 'for' loops and the range() function;
+
+     Projects created (click the link to try):
+    - Average Height Calculator; (https://replit.com/@user/Average-Height-Calculator)
+    - Highest Student Score; (https://replit.com/@user/Highest-Student-Score)
+    - Adding Even Numbers; (https://replit.com/@user/Sum-of-All-Even-Numbers-1-100)
+    - The FizzBuzz Challenge; (https://replit.com/@user/Solution-to-FizzBuzz-Game)
+    - Create a Password Generator; (https://replit.com/@user/Password-Generator)
+
+- <b>Day 6</b> - [Python Functions & Karel](https://github.com/jotavare/100-Days-of-Code-in-Python/tree/main/Day%206)
+
+    What I learned:
+    - Defining and Calling Python Functions;
+    - Indentation in Python;
+    - While Loops;
+
+    Projects created:
+    - Reeborgs Wolrd Challenge Alone; (https://lnkd.in/gbrWDy6x)
+    - Reeborgs Wolrd Challenge 1; (https://lnkd.in/g-8-KuS3)
+    - Reeborgs Wolrd Challenge 2; (https://lnkd.in/gzKH_9xj)
+    - Reeborgs Wolrd Challenge 3; (https://lnkd.in/guZRHDnJ)
+    - Reeborgs Wolrd Challenge 4; (https://lnkd.in/gMcd4EVH)
+    - Reeborgs Wolrd Challenge Maze; (https://lnkd.in/gccycRSQ)
+
 <!-- LICENSE -->
 ## License
 
