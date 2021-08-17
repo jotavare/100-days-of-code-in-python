@@ -90,13 +90,25 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
     - Indentation in Python;
     - While Loops;
 
-    Projects created:
+    Projects created (click the link to check):
     - Reeborgs Wolrd Challenge Alone; (https://lnkd.in/gbrWDy6x)
     - Reeborgs Wolrd Challenge 1; (https://lnkd.in/g-8-KuS3)
     - Reeborgs Wolrd Challenge 2; (https://lnkd.in/gzKH_9xj)
     - Reeborgs Wolrd Challenge 3; (https://lnkd.in/guZRHDnJ)
     - Reeborgs Wolrd Challenge 4; (https://lnkd.in/gMcd4EVH)
     - Reeborgs Wolrd Challenge Maze; (https://lnkd.in/gccycRSQ)
+
+- <b>Day 7</b> - [Hangman](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/Day%207)
+
+    What I learned:
+    - How to break a Complex Problem down into a Flow Chart;
+
+    Projects created (click the link to try):
+    - Picking a Random Words and Checking Answers; (https://replit.com/@swoky/Unfinished-Hangman-Stage-1)
+    - Replacing Blanks with Guesses; (https://replit.com/@swoky/Unfinished-Hangman-Stage-2)
+    - Checking if the Player has Won; (https://replit.com/@swoky/Unfinished-Hangman-Stage-3)
+    - Keeping Track of the Player's Lives; (https://replit.com/@swoky/Unfinished-Hangman-Stage-4)
+    - Hangman Game - Improving the User Experience ; (https://replit.com/@swoky/Finished-Hangman-Final-Stage)
 
 <!-- LICENSE -->
 ## License
