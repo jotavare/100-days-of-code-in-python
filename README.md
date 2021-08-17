@@ -104,7 +104,7 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
     - How to break a Complex Problem down into a Flow Chart;
 
     Projects created (click the link to try):
-    - Picking a Random Words and Checking Answers; (https://replit.com/@swoky/Unfinished-Hangman-Stage-1)
+    - Picking a Random Word and Checking Answers; (https://replit.com/@swoky/Unfinished-Hangman-Stage-1)
     - Replacing Blanks with Guesses; (https://replit.com/@swoky/Unfinished-Hangman-Stage-2)
     - Checking if the Player has Won; (https://replit.com/@swoky/Unfinished-Hangman-Stage-3)
     - Keeping Track of the Player's Lives; (https://replit.com/@swoky/Unfinished-Hangman-Stage-4)
