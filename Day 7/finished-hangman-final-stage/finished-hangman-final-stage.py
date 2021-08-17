@@ -1,4 +1,9 @@
 #final step of hangman
+#can also use the function bellow
+#from hangman_words import word_list
+#from hangman_art import stages, logo
+from replit import clear
+
 import random
 import hangman_art
 import hangman_words
@@ -15,7 +20,7 @@ lives = 6
 print(hangman_art.logo)
 
 #testing code
-print(f'Pssst, the solution is {chosen_word}.')
+#print(f'Pssst, the solution is {chosen_word}.')
 
 #create blanks
 display = []
@@ -24,6 +29,7 @@ for _ in range(word_length):
 
 while not end_of_game:
     guess = input("Guess a letter: ").lower()
+    clear()
 
     #if the user has entered a letter they've already guessed, print the letter and let them know.       
     if guess in display:
