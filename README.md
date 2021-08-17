@@ -108,7 +108,7 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
     - Replacing Blanks with Guesses; (https://replit.com/@swoky/Unfinished-Hangman-Stage-2)
     - Checking if the Player has Won; (https://replit.com/@swoky/Unfinished-Hangman-Stage-3)
     - Keeping Track of the Player's Lives; (https://replit.com/@swoky/Unfinished-Hangman-Stage-4)
-    - Hangman Game - Improving the User Experience ; (https://replit.com/@swoky/Finished-Hangman-Final-Stage)
+    - Hangman Game - Final Stage; (https://replit.com/@swoky/Finished-Hangman-Final-Stage)
 
 <!-- LICENSE -->
 ## License
