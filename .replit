@@ -1,2 +1,2 @@
 language = "python3"
-run = "python day-4/treasure-map-mark-with-x.py"
+run = "python main.py"
