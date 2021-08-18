@@ -110,6 +110,19 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
     - Keeping Track of the Player's Lives; (https://replit.com/@swoky/Unfinished-Hangman-Stage-4)
     - Hangman Game - Final Stage; (https://replit.com/@swoky/Finished-Hangman-Final-Stage)
 
+- <b>Day 8</b> - [Function Parameters & Caesar Cipher](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/Day%208)
+
+    What I learned:
+    - Functions with Inputs;
+    - Positional vs. Keyword Arguments;
+
+    Projects:
+    - Paint Area Calculator;
+    - Prime Number Checker;
+
+    Final Project:
+    - Caesar Cipher (Encrypt and decrypt messages);
+
 <!-- LICENSE -->
 ## License
 
