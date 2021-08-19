@@ -77,7 +77,7 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
     
     Project:
     - [Rock, Paper, Scissors;](https://replit.com/@swoky/Rock-Paper-Scissors)
-####
+##
 - <b>Day 5</b> - [Python Loops](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/day-05)
 
     What i learned:
