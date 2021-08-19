@@ -20,11 +20,13 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
     - Input function;
     - Python variables and variable naming;
 
-    Projects created:
+    Exercises:
     - Print 3 example quotes; (https://replit.com/@swoky/Print-Example-Quotes)
     - Debugging Practice - Fix the code; (https://replit.com/@swoky/Fix-the-code)
     - Print the number of characters in a name; (https://replit.com/@swoky/Print-Number-of-Characters-in-a-Name)
     - Write a program taht switches variables; (https://replit.com/@swoky/Switch-Variables)
+
+    Project:
     - Create a Band Name Generator; (https://replit.com/@swoky/Band-Name-Generator)
     
 - <b>Day 2</b> - [Understanding Data Types and How to Manipulate Strings](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/Day%202)
@@ -36,10 +38,12 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
     - Number Manipulation and F Strings in Python;
     - Python variables and variable naming;
 
-    Projects created (click the link to try):
+    Exercises:
     - Add the digits in a 2 digit number; (https://replit.com/@swoky/Sum-Two-Digit-Number)
     - Body Mass Index (BMI) calculator; (https://replit.com/@swoky/BMI-Calculator)
     - Life in weeks calculator (until 90 years old); (https://replit.com/@swoky/My-Life-in-Days-Weeks-and-Months)
+
+    Project:
     - Tip Calculator; (https://replit.com/@swoky/Tip-Calculator)
 
 - <b>Day 3</b> - [Control Flow and Logical Operators](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/Day%203)
@@ -49,13 +53,15 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
     - Nested if statements and elif statements;
     - Multiple If Statements in Succession;
 
-    Projects created (click the link to try):
-    - Odd and even number checker; (https://replit.com/@swoky/Odd-and-Even-Number-Check)
-    - BMI calculator with interpretation; (https://replit.com/@swoky/BMI-Calculator-Interpretation)
-    - Leap Year checker; (https://replit.com/@swoky/Leap-Year-Check)
-    - Automatic pizza order program; (https://replit.com/@swoky/Automatic-Pizza-Order-Program)
-    - Love calculator; (https://replit.com/@swoky/Love-Calculator)
-    - Treasure island game; (https://replit.com/@swoky/Treasure-Island-Game)
+    Exercises:
+    - Odd and Even Number Checker; (https://replit.com/@swoky/Odd-and-Even-Number-Check)
+    - BMI Calculator with Interpretation; (https://replit.com/@swoky/BMI-Calculator-Interpretation)
+    - Leap Year Checker; (https://replit.com/@swoky/Leap-Year-Check)
+    - Automatic Pizza Order Program; (https://replit.com/@swoky/Automatic-Pizza-Order-Program)
+    - Love Calculator; (https://replit.com/@swoky/Love-Calculator)
+
+    Project:
+    - Treasure Island game; (https://replit.com/@swoky/Treasure-Island-Game)
 
 - <b>Day 4</b> - [Randomisation and Python Lists](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/Day%204)
 
@@ -133,7 +139,7 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
     - Grading Program;
     - Dictionary in List; (https://replit.com/@swoky/Blind-Auction)
 
-    Final Project:
+    Project:
     - Blind Auction;
 
 - <b>Day 10</b> - [Functions with Outputs](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/Day%210)
@@ -150,7 +156,7 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
     - Upper Case First Letter; (https://replit.com/@swoky/Upper-Case-First-Letter)
     - Days in Month; (https://replit.com/@swoky/Days-in-Month)
 
-    Final Project:
+    Project:
     - Calculator; (https://replit.com/@swoky/Calculator)
 
 <!-- LICENSE -->
