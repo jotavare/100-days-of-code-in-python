@@ -123,6 +123,36 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
     Final Project:
     - Caesar Cipher (Encrypt and decrypt messages);
 
+- <b>Day 9</b> - [Beginner - Dictionaries, Nesting and the Secret Auction](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/Day%209)
+
+    What I learned:
+    - The Python Dictionary: Deep Dive; (https://replit.com/@swoky/Grading-Program)
+    - Nesting Lists and Dictionaries; (https://replit.com/@swoky/Dictionary-in-List)
+
+    Exercises:
+    - Grading Program;
+    - Dictionary in List; (https://replit.com/@swoky/Blind-Auction)
+
+    Final Project:
+    - Blind Auction;
+
+- <b>Day 10</b> - [Functions with Outputs](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/Day%210)
+
+    What I learned:
+    - Functions with Outputs;
+    - Multiple return values;
+    - Docstrings;
+    - Combining Dictionaries and Functions;
+    - Print vs. Return;
+    - While Loops, Flags and Recursion;
+
+    Exercises:
+    - Upper Case First Letter; (https://replit.com/@swoky/Upper-Case-First-Letter)
+    - Days in Month; (https://replit.com/@swoky/Days-in-Month)
+
+    Final Project:
+    - Calculator; (https://replit.com/@swoky/Calculator)
+
 <!-- LICENSE -->
 ## License
 
