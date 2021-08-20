@@ -172,6 +172,17 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
     Capstone Project:
     - [Blackjack;](https://replit.com/@swoky/Blackjack)
 ##
+- <b>Day 12</b> - [Scope & Number Guessing Game](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/day-12)
+
+    What I learned:
+    - Namespaces: Local vs. Global Scope;
+    - Does Python Have Block Scope?;
+    - How to Modify a Global Variable;
+    - Python Constants and Global Scope;
+
+    Project:
+    - [Guess the Number;](https://replit.com/@swoky/Guess-the-Number)
+##
 <!-- LICENSE -->
 ## License
 
