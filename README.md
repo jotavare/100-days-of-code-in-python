@@ -167,6 +167,11 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
     Project:
     - [Calculator;](https://replit.com/@swoky/Calculator)
 ##
+- <b>Day 11</b> - [The Blackjack Capstone Project](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/day-11)
+
+    Capstone Project:
+    - [Blackjack;](https://replit.com/@swoky/Blackjack)
+##
 <!-- LICENSE -->
 ## License
 
