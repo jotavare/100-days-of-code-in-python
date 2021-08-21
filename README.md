@@ -202,6 +202,12 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
     - [Python Tutor](https://pythontutor.com/)
     - [Thonny](https://thonny.org/)
 ##
+- <b>Day 14</b> - [Higher Lower Game Project](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/day-14)
+
+    Project:
+    - [Higher Lower Game](https://replit.com/@swoky/Higher-or-Lower-Game)
+
+##
 <!-- LICENSE -->
 ## License
 
