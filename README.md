@@ -9,9 +9,9 @@ Starting: 14 August, 2021
 I, João Oliveira, pledge to complete this 100 days of coding challenge.
 </p>
 
-## 1 - 100 Days
+## 1 - 100 Days (Click to expand!)
 <details>
-    <summary>Day 1 - Day 10 (Click to expand!)</summary>
+    <summary>Day 1 - Day 10</summary>
     
 ##
 - <b>Day 1</b> - [Working with Variables in Python to Manage Data](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/day-01)
@@ -172,7 +172,7 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
 ##
 </details>
 <details>
-    <summary>Day 11 - Day 20 (Click to expand!)</summary>
+    <summary>Day 11 - Day 20</summary>
 
 ##
 - <b>Day 11</b> - [The Blackjack Capstone Project](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/day-11)
