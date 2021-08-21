@@ -9,8 +9,11 @@ Starting: 14 August, 2021
 I, João Oliveira, pledge to complete this 100 days of coding challenge.
 </p>
 
-## Contents
-
+## 1 - 100 Days (Click to expand!)
+<details>
+    <summary>Day 1 - Day 10</summary>
+    
+##
 - <b>Day 1</b> - [Working with Variables in Python to Manage Data](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/day-01)
 
     What i learned:
@@ -167,6 +170,11 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
     Project:
     - [Calculator;](https://replit.com/@swoky/Calculator)
 ##
+</details>
+<details>
+    <summary>Day 11 - Day 20</summary>
+
+##
 - <b>Day 11</b> - [The Blackjack Capstone Project](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/day-11)
 
     Capstone Project:
@@ -183,6 +191,32 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
     Project:
     - [Guess the Number;](https://replit.com/@swoky/Guess-the-Number)
 ##
+- <b>Day 13</b> - [Debugging: How to Find and Fix Errors in your Code](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/day-13)
+
+    What I learned:
+    - Describe the Problem;
+    - Reproduce the Bug;
+    - Play Computer and Evaluate Each Line;
+    - Fix Errors and Watch for Red Underlines;
+    - Squash bugs with a print() Statement;
+    - Use a Debugger;
+
+    Debugging Old Projects:
+    - [Debugging Odd or Even](https://replit.com/@swoky/Debugging-Odd-or-Even)
+    - [Debugging Leap Year](https://replit.com/@swoky/Debuggin-Leap-Year)
+    - [Debugging FizzBuzz](https://replit.com/@swoky/Debugging-FizzBuzz)
+
+    Tools user for Debugging:
+    - [Python Tutor](https://pythontutor.com/)
+    - [Thonny](https://thonny.org/)
+##
+- <b>Day 14</b> - [Higher Lower Game Project](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/day-14)
+
+    Project:
+    - [Higher Lower Game](https://replit.com/@swoky/Higher-or-Lower-Game)
+##
+</details>
+
 <!-- LICENSE -->
 ## License
 
