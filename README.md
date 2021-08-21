@@ -10,7 +10,10 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
 </p>
 
 ## 1 - 100 Days
-
+<details>
+    <summary>Day 1 - Day 10 (Click to expand!)</summary>
+    
+##
 - <b>Day 1</b> - [Working with Variables in Python to Manage Data](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/day-01)
 
     What i learned:
@@ -167,6 +170,11 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
     Project:
     - [Calculator;](https://replit.com/@swoky/Calculator)
 ##
+</details>
+<details>
+    <summary>Day 11 - Day 20 (Click to expand!)</summary>
+
+##
 - <b>Day 11</b> - [The Blackjack Capstone Project](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/day-11)
 
     Capstone Project:
@@ -206,8 +214,9 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
 
     Project:
     - [Higher Lower Game](https://replit.com/@swoky/Higher-or-Lower-Game)
-
 ##
+</details>
+
 <!-- LICENSE -->
 ## License
 
