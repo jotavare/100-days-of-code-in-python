@@ -15,8 +15,7 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
   </a>
 </p>
 
-## 1 - 100 Days (Click to expand!)
-<details>
+<details open="open">
     <summary>Day 1 - Day 10</summary>
     
 ##
