@@ -9,6 +9,12 @@ Starting: 14 August, 2021
 I, João Oliveira, pledge to complete this 100 days of coding challenge.
 </p>
 
+<p align="center">
+  <a href="#">
+    <img src="python_banner.jpg" alt="Logo">
+  </a>
+</p>
+
 ## 1 - 100 Days (Click to expand!)
 <details>
     <summary>Day 1 - Day 10</summary>
