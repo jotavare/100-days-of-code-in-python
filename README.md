@@ -11,7 +11,7 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
 
 <p align="center">
   <a href="#">
-    <img src="python_banner.jpg" alt="Logo">
+    <img src="python_banner.jpg" alt="Logo" width="500" height="208">
   </a>
 </p>
 
