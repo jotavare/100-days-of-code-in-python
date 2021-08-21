@@ -9,7 +9,7 @@ Starting: 14 August, 2021
 I, João Oliveira, pledge to complete this 100 days of coding challenge.
 </p>
 
-## Contents
+## 1 - 100 Days
 
 - <b>Day 1</b> - [Working with Variables in Python to Manage Data](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/day-01)
 
