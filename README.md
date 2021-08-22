@@ -9,8 +9,13 @@ Starting: 14 August, 2021
 I, João Oliveira, pledge to complete this 100 days of coding challenge.
 </p>
 
-## 1 - 100 Days (Click to expand!)
-<details>
+<p align="center">
+  <a href="#">
+    <img src="python_banner.jpg" alt="Logo" width="650" height="270">
+  </a>
+</p>
+
+<details open="open">
     <summary>Day 1 - Day 10</summary>
     
 ##
@@ -214,6 +219,16 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
 
     Project:
     - [Higher Lower Game](https://replit.com/@swoky/Higher-or-Lower-Game)
+##
+- <b>Day 15</b> - [Local Development Environment Setup & the Coffee Machine](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/day-15)
+
+    What I learned:
+    - Download and install Python Locally;
+    - Download and install PyCharm for Windows:
+    - PyCharm's Features;
+  
+    Project:
+    - [Coffee Machine](https://replit.com/@swoky/Coffee-Machine)
 ##
 </details>
 
