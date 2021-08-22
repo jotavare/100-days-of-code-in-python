@@ -220,6 +220,16 @@ I, João Oliveira, pledge to complete this 100 days of coding challenge.
     Project:
     - [Higher Lower Game](https://replit.com/@swoky/Higher-or-Lower-Game)
 ##
+- <b>Day 15</b> - [Local Development Environment Setup & the Coffee Machine](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/day-15)
+
+    What I learned:
+    - Download and install Python Locally;
+    - Download and install PyCharm for Windows:
+    - PyCharm's Features;
+  
+    Project:
+    - [Coffee Machine](https://replit.com/@swoky/Coffee-Machine)
+##
 </details>
 
 <!-- LICENSE -->
