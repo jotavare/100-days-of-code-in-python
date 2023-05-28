@@ -6,7 +6,6 @@ Starting: 14 August, 2021
 </h5>
 
 <p align="center">
-I, João Oliveira, pledge to complete this 100 days of coding challenge.
 </p>
 
 <p align="center">
