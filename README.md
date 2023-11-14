@@ -2,7 +2,6 @@
 #100Daysofcode in Python
 </h1>
 <h5 align="center">
-Starting: 14 August, 2021
 </h5>
 
 <p align="center">
@@ -230,17 +229,3 @@ Starting: 14 August, 2021
     - [Coffee Machine](https://replit.com/@swoky/Coffee-Machine)
 ##
 </details>
-
-<!-- LICENSE -->
-## License
-
-Distributed under the Unlicense. See `LICENSE` for more information.
-
-
-
-<!-- CONTACT -->
-## Contact
-
-João Oliveira - [instagram/swoky.jpg](https://www.instagram.com/swoky.jpg) - jpoliveira.mm@gmail.com
-
-Project Link - [https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python)
