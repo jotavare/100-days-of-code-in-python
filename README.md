@@ -1,16 +1,5 @@
-<h1 align="center"> 
-#100Daysofcode in Python
-</h1>
-<h5 align="center">
-</h5>
-
 <p align="center">
-</p>
-
-<p align="center">
-  <a href="#">
-    <img src="python_banner.jpg" alt="Logo" width="650" height="270">
-  </a>
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/python/github_python_banner_python.png">
 </p>
 
 <details open="open">
