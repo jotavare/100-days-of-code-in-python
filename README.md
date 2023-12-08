@@ -1,7 +1,32 @@
 <p align="center">
   <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/python/github_python_banner_python.png">
 </p>
-    
+
+<p align="center">
+	<img src="https://img.shields.io/badge/status-ongoing-success?color=%2312bab9&style=flat-square"/>
+	<img src="https://img.shields.io/github/last-commit/jotavare/100-days-of-code-in-python?color=%2312bab9&style=flat-square"/>
+	<a href='https://www.linkedin.com/in/joaoptoliveira' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
+	<a href='https://profile.intra.42.fr/users/jotavare' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
+</p>
+
+<p align="center">
+	<a href="#day1">Day 1</a> •
+    <a href="#day2">Day 2</a> •
+    <a href="#day3">Day 3</a> •
+    <a href="#day4">Day 4</a> •
+    <a href="#day5">Day 5</a> •
+    <a href="#day6">Day 6</a> •
+    <a href="#day7">Day 7</a> •
+    <a href="#day8">Day 8</a> •
+    <a href="#day9">Day 9</a> •
+    <a href="#day10">Day 10</a> •
+    <a href="#day11">Day 11</a> •
+    <a href="#day12">Day 12</a> •
+    <a href="#day13">Day 13</a> •
+    <a href="#day14">Day 14</a> •
+    <a href="#day15">Day 15</a>
+</p>
+
 ## DAY 1
 > [Working with Variables in Python to Manage Data](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-01)
 
@@ -210,10 +235,10 @@
 
 | What I learned |
 | :- |
-| Namespaces: Local vs. Global Scope. |
+| Namespaces: Local vs. Global Scope |
 | Does Python Have Block Scope? |
-| How to Modify a Global Variable. |
-| Python Constants and Global Scope. |
+| How to Modify a Global Variable |
+| Python Constants and Global Scope |
 
 | Project |
 | :- |
@@ -224,12 +249,12 @@
 
 | What I learned |
 | :- |
-| Describe the Problem. |
-| Reproduce the Bug. |
-| Play Computer and Evaluate Each Line. |
-| Fix Errors and Watch for Red Underlines. |
-| Squash bugs with a print() Statement. |
-| Use a Debugger. |
+| Describe the Problem |
+| Reproduce the Bug |
+| Play Computer and Evaluate Each Line |
+| Fix Errors and Watch for Red Underlines |
+| Squash bugs with a print() Statement |
+| Use a Debugger |
 
 | Debugging Old Projects |
 | :- |
@@ -254,9 +279,9 @@
 
 | What I learned |
 | :- |
-| Download and install Python Locally. |
-| Download and install PyCharm for Windows. |
-| PyCharm's Features. |
+| Download and install Python Locally |
+| Download and install PyCharm for Windows |
+| PyCharm's Features |
   
 | Project |
 | :- |
