@@ -24,55 +24,67 @@
 | :- |
 | [Create a Band Name Generator;](https://replit.com/@swoky/Band-Name-Generator) |
 
-##
-- <b>Day 2</b> - [Understanding Data Types and How to Manipulate Strings](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/day-02)
+## DAY 2
+> [Understanding Data Types and How to Manipulate Strings](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-02)
 
-    What i learned:
-    - Primitive Data Types;
-    - Type Error, Type Checking and Type Conversion;
-    - Mathematical Operations in Python;
-    - Number Manipulation and F Strings in Python;
-    - Python variables and variable naming;
+| What I learned |
+| :- |
+| Primitive Data Types |
+| Type Error, Type Checking and Type Conversion |
+| Mathematical Operations in Python |
+| Number Manipulation and F Strings in Python |
+| Python variables and variable naming |
 
-    Exercises:
-    - [Add the digits in a 2 digit number;](https://replit.com/@swoky/Sum-Two-Digit-Number)
-    - [Body Mass Index (BMI) calculator;](https://replit.com/@swoky/BMI-Calculator)
-    - [Life in weeks calculator (until 90 years old);](https://replit.com/@swoky/My-Life-in-Days-Weeks-and-Months)
+| Exercises |
+| :- |
+| [Add the digits in a 2 digit number;](https://replit.com/@swoky/Sum-Two-Digit-Number) |
+| [Body Mass Index (BMI) calculator;](https://replit.com/@swoky/BMI-Calculator) |
+| [Life in weeks calculator (until 90 years old);](https://replit.com/@swoky/My-Life-in-Days-Weeks-and-Months) |
 
-    Project:
-    - [Tip Calculator;](https://replit.com/@swoky/Tip-Calculator)
-##
-- <b>Day 3</b> - [Control Flow and Logical Operators](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/day-03)
+| Project |
+| :- |
+| [Tip Calculator;](https://replit.com/@swoky/Tip-Calculator) |
 
-    What i learned:
-    - Control Flow with if / else and Conditional Operators;
-    - Nested if statements and elif statements;
-    - Multiple If Statements in Succession;
+## DAY 3
+> [Control Flow and Logical Operators](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-03)
 
-    Exercises:
-    - [Odd and Even Number Checker;](https://replit.com/@swoky/Odd-and-Even-Number-Check)
-    - [BMI Calculator with Interpretation;](https://replit.com/@swoky/BMI-Calculator-Interpretation)
-    - [Leap Year Checker;](https://replit.com/@swoky/Leap-Year-Check)
-    - [Automatic Pizza Order Program;](https://replit.com/@swoky/Automatic-Pizza-Order-Program)
-    - [Love Calculator;](https://replit.com/@swoky/Love-Calculator)
+| What I learned |
+| :- |
+| Control Flow with if / else and Conditional Operators |
+| Nested if statements and elif statements |
+| Multiple If Statements in Succession |
 
-    Project:
-    - [Treasure Island game;](https://replit.com/@swoky/Treasure-Island-Game)
-##
-- <b>Day 4</b> - [Randomisation and Python Lists](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/day-04)
+| Exercises |
+| :- |
+| [Odd and Even Number Checker;](https://replit.com/@swoky/Odd-and-Even-Number-Check) |
+| [BMI Calculator with Interpretation;](https://replit.com/@swoky/BMI-Calculator-Interpretation) |
+| [Leap Year Checker;](https://replit.com/@swoky/Leap-Year-Check) |
+| [Automatic Pizza Order Program;](https://replit.com/@swoky/Automatic-Pizza-Order-Program) |
+| [Love Calculator;](https://replit.com/@swoky/Love-Calculator) |
 
-    What i learned:
-    - Random Modules;
-    - Understanding the Offset and Appending Items to Lists;
-    - IndexErrors and Working with Nested Lists;
+| Project |
+| :- |
+| [Treasure Island game;](https://replit.com/@swoky/Treasure-Island-Game) |
 
-    Exercises:
-    - [Virtual Coin Toss - Heads or Tails;](https://replit.com/@swoky/Virtual-Coin-Toss-Program-Heads-or-Tails)
-    - [Banker Rouletter - Who pays the bill;](https://replit.com/@swoky/Bank-Rouletter-Who-pays-the-bill)
-    - [Treasure Map;](https://replit.com/@swoky/Treasure-Map-Mark-with-X)
+## DAY 4
+> [Randomisation and Python Lists](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-04)
+
+| What I learned |
+| :- |
+| Random Modules |
+| Understanding the Offset and Appending Items to Lists |
+| IndexErrors and Working with Nested Lists |
+
+| Exercises |
+| :- |
+| [Virtual Coin Toss - Heads or Tails;](https://replit.com/@swoky/Virtual-Coin-Toss-Program-Heads-or-Tails) |
+| [Banker Rouletter - Who pays the bill;](https://replit.com/@swoky/Bank-Rouletter-Who-pays-the-bill) |
+| [Treasure Map;](https://replit.com/@swoky/Treasure-Map-Mark-with-X) |
     
-    Project:
-    - [Rock, Paper, Scissors;](https://replit.com/@swoky/Rock-Paper-Scissors)
+| Project |
+| :- |
+| [Rock, Paper, Scissors;](https://replit.com/@swoky/Rock-Paper-Scissors) |
+
 ##
 - <b>Day 5</b> - [Python Loops](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/day-05)
 
