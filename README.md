@@ -1,30 +1,27 @@
 <p align="center">
   <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/python/github_python_banner_python.png">
 </p>
-
-<details open="open">
-    <summary>Day 1 - Day 10</summary>
     
 ## DAY 1
 > [Working with Variables in Python to Manage Data](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-01)
 
-| What I learned |   |
-| - | - |
+| What I learned |
+| :- |
 | Printing to the Console |
 | String Manipulation and Code Intelligence |
 | Debugging practice |
 | Input function |
 | Python variables and variable naming |
 
-| Exercises |   |
-| - | - |
+| Exercises |
+| :- |
 | [Print 3 Example Quotes;](https://replit.com/@swoky/Print-Example-Quotes) |
 | [Debugging Practice - Fix the code;](https://replit.com/@swoky/Fix-the-code) |
 | [Print the number of characters in a name;](https://replit.com/@swoky/Print-Number-of-Characters-in-a-Name) |
 | [Write a program that switches variables;](https://replit.com/@swoky/Switch-Variables) |
 
-| Project |   |
-| - | - |
+| Project |
+| :- |
 | [Create a Band Name Generator;](https://replit.com/@swoky/Band-Name-Generator) |
 
 ##
