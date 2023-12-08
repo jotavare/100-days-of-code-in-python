@@ -9,7 +9,13 @@
 	<a href='https://profile.intra.42.fr/users/jotavare' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
 </p>
 
-## DAY 1
+<p align="center">
+	<a href="#projects">Projects</a> •
+	<a href="#license">License</a>
+</p>
+
+## PROJECTS
+### DAY 1
 > [Working with Variables in Python to Manage Data](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-01)
 
 | What I learned |
@@ -31,7 +37,7 @@
 | :- |
 | [Create a Band Name Generator](https://replit.com/@swoky/Band-Name-Generator) |
 
-## DAY 2
+### DAY 2
 > [Understanding Data Types and How to Manipulate Strings](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-02)
 
 | What I learned |
@@ -52,7 +58,7 @@
 | :- |
 | [Tip Calculator](https://replit.com/@swoky/Tip-Calculator) |
 
-## DAY 3
+### DAY 3
 > [Control Flow and Logical Operators](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-03)
 
 | What I learned |
@@ -73,7 +79,7 @@
 | :- |
 | [Treasure Island game](https://replit.com/@swoky/Treasure-Island-Game) |
 
-## DAY 4
+### DAY 4
 > [Randomisation and Python Lists](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-04)
 
 | What I learned |
@@ -92,7 +98,7 @@
 | :- |
 | [Rock, Paper, Scissors](https://replit.com/@swoky/Rock-Paper-Scissors) |
 
-## DAY 5
+### DAY 5
 > [Python Loops](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-05)
 
 | What I learned |
@@ -111,7 +117,7 @@
 | :- |
 | [Create a Password Generator](https://replit.com/@swoky/Password-Generator) |
 
-## DAY 6
+### DAY 6
 > [Python Functions & Karel](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-06)
 
 | What I learned |
@@ -132,7 +138,7 @@
 | :- |
 | [Reeborgs Wolrd Challenge Maze](https://lnkd.in/gf6sSEPM) |
 
-## DAY 7
+### DAY 7
 > [Hangman](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-07)
 
 | What I learned |
@@ -150,7 +156,7 @@
 | :- |
 | [Hangman Game - Final Stage](https://replit.com/@swoky/Finished-Hangman-Final-Stage) |
 
-## DAY 8
+### DAY 8
 > [Function Parameters & Caesar Cipher](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-08)
 
 | What I learned |
@@ -167,7 +173,7 @@
 | :- |
 | [Caesar Cipher (Encrypt and decrypt messages)](https://replit.com/@swoky/Caesar-Cipher-EncryptDecrypt) |
 
-## DAY 9
+### DAY 9
 > [Beginner - Dictionaries, Nesting and the Secret Auction](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-09)
 
 | What I learned |
@@ -184,7 +190,7 @@
 | :- |
 | [Blind Auction](https://replit.com/@swoky/Blind-Auction) |
 
-## DAY 10
+### DAY 10
 > [Functions with Outputs](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-10)
 
 | What I learned |
@@ -205,14 +211,14 @@
 | :- |
 | [Calculator](https://replit.com/@swoky/Calculator) |
 
-## DAY 11
+### DAY 11
 > [The Blackjack Capstone Project](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-11)
 
 | Capstone Project |
 | :- |
 | [Blackjack;](https://replit.com/@swoky/Blackjack) |
 
-## DAY 12
+### DAY 12
 > [Scope & Number Guessing Game](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-12)
 
 | What I learned |
@@ -226,7 +232,7 @@
 | :- |
 | [Guess the Number](https://replit.com/@swoky/Guess-the-Number) |
 
-## DAY 13
+### DAY 13
 > [Debugging: How to Find and Fix Errors in your Code](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-13)
 
 | What I learned |
@@ -249,14 +255,14 @@
 | [Python Tutor](https://pythontutor.com/) |
 | [Thonny](https://thonny.org/) |
 
-## DAY 14
+### DAY 14
 > [Higher Lower Game Project](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-14)
 
 | Project |
 | :- |
 | [Higher Lower Game](https://replit.com/@swoky/Higher-or-Lower-Game) |
 
-## DAY 15
+### DAY 15
 > [Local Development Environment Setup & the Coffee Machine](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-15)
 
 | What I learned |
@@ -268,3 +274,8 @@
 | Project |
 | :- |
 | [Coffee Machine](https://replit.com/@swoky/Coffee-Machine) |
+
+## LICENSE
+<p>
+This work is published under the terms of <a href="https://github.com/jotavare/100-days-of-code-in-python/blob/main/LICENSE">Unlicense</a>.
+</p>
