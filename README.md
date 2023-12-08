@@ -85,149 +85,179 @@
 | :- |
 | [Rock, Paper, Scissors;](https://replit.com/@swoky/Rock-Paper-Scissors) |
 
-##
-- <b>Day 5</b> - [Python Loops](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/day-05)
+## DAY 5
+> [Python Loops](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-05)
 
-    What i learned:
-    - Using the for loop with Python Lists;
-    - 'for' loops and the range() function;
+| What I learned |
+| :- |
+| Using the for loop with Python Lists |
+| 'for' loops and the range() function |
 
-    Exercises:
-    - [Average Height Calculator;](https://replit.com/@swoky/Average-Height-Calculator)
-    - [Highest Student Score;](https://replit.com/@swoky/Highest-Student-Score)
-    - [Adding Even Numbers;](https://replit.com/@swoky/Sum-of-All-Even-Numbers-1-100)
-    - [The FizzBuzz Challenge;](https://replit.com/@swoky/Solution-to-FizzBuzz-Game)
+| Exercises |
+| :- |
+| [Average Height Calculator;](https://replit.com/@swoky/Average-Height-Calculator) |
+| [Highest Student Score;](https://replit.com/@swoky/Highest-Student-Score) |
+| [Adding Even Numbers;](https://replit.com/@swoky/Sum-of-All-Even-Numbers-1-100) |
+| [The FizzBuzz Challenge;](https://replit.com/@swoky/Solution-to-FizzBuzz-Game) |
 
-    Project:
-    - [Create a Password Generator;](https://replit.com/@swoky/Password-Generator)
-##
-- <b>Day 6</b> - [Python Functions & Karel](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/day-06)
+| Project |
+| :- |
+| [Create a Password Generator;](https://replit.com/@swoky/Password-Generator) |
 
-    What I learned:
-    - Defining and Calling Python Functions;
-    - Indentation in Python;
-    - While Loops;
+## DAY 6
+> [Python Functions & Karel](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-06)
 
-    Challenges:
-    - [Reeborgs Wolrd Challenge 1;](https://lnkd.in/gMVk8VDA)
-    - [Reeborgs Wolrd Challenge 2;](https://lnkd.in/ggaN6aVb)
-    - [Reeborgs Wolrd Challenge 3;](https://lnkd.in/gJ5uVR3q)
-    - [Reeborgs Wolrd Challenge 4;](https://lnkd.in/g4Y3ED3H)
-    - [Reeborgs Wolrd Challenge 5;](https://lnkd.in/gJY5jB8h)
+| What I learned |
+| :- |
+| Defining and Calling Python Functions |
+| Indentation in Python |
+| While Loops |
+
+| Challenges |
+| :- |
+| [Reeborgs Wolrd Challenge 1;](https://lnkd.in/gMVk8VDA) |
+| [Reeborgs Wolrd Challenge 2;](https://lnkd.in/ggaN6aVb) |
+| [Reeborgs Wolrd Challenge 3;](https://lnkd.in/gJ5uVR3q) |
+| [Reeborgs Wolrd Challenge 4;](https://lnkd.in/g4Y3ED3H) |
+| [Reeborgs Wolrd Challenge 5;](https://lnkd.in/gJY5jB8h) |
     
-    Final Challenge:
-    - [Reeborgs Wolrd Challenge Maze;](https://lnkd.in/gf6sSEPM)
-##
-- <b>Day 7</b> - [Hangman](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/day-07)
+| Final Challenge |
+| :- |
+| [Reeborgs Wolrd Challenge Maze;](https://lnkd.in/gf6sSEPM) |
 
-    What I learned:
-    - How to break a Complex Problem down into a Flow Chart;
+## DAY 7
+> [Hangman](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-07)
 
-    Exercises:
-    - [Picking a Random Word and Checking Answers;](https://replit.com/@swoky/Unfinished-Hangman-Stage-1)
-    - [Replacing Blanks with Guesses;](https://replit.com/@swoky/Unfinished-Hangman-Stage-2)
-    - [Checking if the Player has Won;](https://replit.com/@swoky/Unfinished-Hangman-Stage-3)
-    - [Keeping Track of the Player's Lives;](https://replit.com/@swoky/Unfinished-Hangman-Stage-4)
+| What I learned |
+| :- |
+| How to break a Complex Problem down into a Flow Chart |
 
-    Project:
-    - [Hangman Game - Final Stage;](https://replit.com/@swoky/Finished-Hangman-Final-Stage)
-##
-- <b>Day 8</b> - [Function Parameters & Caesar Cipher](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/day-08)
+| Exercises |
+| :- |
+| [Picking a Random Word and Checking Answers;](https://replit.com/@swoky/Unfinished-Hangman-Stage-1) |
+| [Replacing Blanks with Guesses;](https://replit.com/@swoky/Unfinished-Hangman-Stage-2) |
+| [Checking if the Player has Won;](https://replit.com/@swoky/Unfinished-Hangman-Stage-3) |
+| [Keeping Track of the Player's Lives;](https://replit.com/@swoky/Unfinished-Hangman-Stage-4) |
 
-    What I learned:
-    - Functions with Inputs;
-    - Positional vs. Keyword Arguments;
+| Project |
+| :- |
+| [Hangman Game - Final Stage;](https://replit.com/@swoky/Finished-Hangman-Final-Stage) |
 
-    Exercises:
-    - [Paint Area Calculator;](https://replit.com/@swoky/Paint-Area-Calculator)
-    - [Prime Number Checker;](https://replit.com/@swoky/Prime-Number-Checker)
+## DAY 8
+> [Function Parameters & Caesar Cipher](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-08)
 
-    Project:
-    - [Caesar Cipher (Encrypt and decrypt messages);](https://replit.com/@swoky/Caesar-Cipher-EncryptDecrypt)
-##
-- <b>Day 9</b> - [Beginner - Dictionaries, Nesting and the Secret Auction](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/day-09)
+| What I learned |
+| :- |
+| Functions with Inputs |
+| Positional vs. Keyword Arguments |
 
-    What I learned:
-    - The Python Dictionary: Deep Dive; 
-    - Nesting Lists and Dictionaries; 
+| Exercises |
+| :- |
+| [Paint Area Calculator;](https://replit.com/@swoky/Paint-Area-Calculator) |
+| [Prime Number Checker;](https://replit.com/@swoky/Prime-Number-Checker) |
 
-    Exercises:
-    - [Grading Program;](https://replit.com/@swoky/Grading-Program)
-    - [Dictionary in List;](https://replit.com/@swoky/Dictionary-in-List)
+| Project |
+| :- |
+| [Caesar Cipher (Encrypt and decrypt messages);](https://replit.com/@swoky/Caesar-Cipher-EncryptDecrypt) |
 
-    Project:
-    - [Blind Auction;](https://replit.com/@swoky/Blind-Auction)
-##
-- <b>Day 10</b> - [Functions with Outputs](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/day-10)
+## DAY 9
+> [Beginner - Dictionaries, Nesting and the Secret Auction](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-09)
 
-    What I learned:
-    - Functions with Outputs;
-    - Multiple return values;
-    - Docstrings;
-    - Combining Dictionaries and Functions;
-    - Print vs. Return;
-    - While Loops, Flags and Recursion;
+| What I learned |
+| :- |
+| The Python Dictionary: Deep Dive |
+| Nesting Lists and Dictionaries |
 
-    Exercises:
-    - [Upper Case First Letter;](https://replit.com/@swoky/Upper-Case-First-Letter)
-    - [Days in Month;](https://replit.com/@swoky/Days-in-Month)
+| Exercises |
+| :- |
+| [Grading Program;](https://replit.com/@swoky/Grading-Program) |
+| [Dictionary in List;](https://replit.com/@swoky/Dictionary-in-List) |
 
-    Project:
-    - [Calculator;](https://replit.com/@swoky/Calculator)
-##
-</details>
-<details>
-    <summary>Day 11 - Day 20</summary>
+| Project |
+| :- |
+| [Blind Auction;](https://replit.com/@swoky/Blind-Auction) |
 
-##
-- <b>Day 11</b> - [The Blackjack Capstone Project](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/day-11)
+## DAY 10
+> [Functions with Outputs](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-10)
 
-    Capstone Project:
-    - [Blackjack;](https://replit.com/@swoky/Blackjack)
-##
-- <b>Day 12</b> - [Scope & Number Guessing Game](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/day-12)
+| What I learned |
+| :- |
+| Functions with Outputs |
+| Multiple return values |
+| Docstrings |
+| Combining Dictionaries and Functions |
+| Print vs. Return |
+| While Loops, Flags and Recursion |
 
-    What I learned:
-    - Namespaces: Local vs. Global Scope;
-    - Does Python Have Block Scope?;
-    - How to Modify a Global Variable;
-    - Python Constants and Global Scope;
+| Exercises |
+| :- |
+| [Upper Case First Letter;](https://replit.com/@swoky/Upper-Case-First-Letter) |
+| [Days in Month;](https://replit.com/@swoky/Days-in-Month) |
 
-    Project:
-    - [Guess the Number;](https://replit.com/@swoky/Guess-the-Number)
-##
-- <b>Day 13</b> - [Debugging: How to Find and Fix Errors in your Code](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/day-13)
+| Project |
+| :- |
+| [Calculator;](https://replit.com/@swoky/Calculator) |
 
-    What I learned:
-    - Describe the Problem;
-    - Reproduce the Bug;
-    - Play Computer and Evaluate Each Line;
-    - Fix Errors and Watch for Red Underlines;
-    - Squash bugs with a print() Statement;
-    - Use a Debugger;
+## DAY 11
+> [The Blackjack Capstone Project](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-11)
 
-    Debugging Old Projects:
-    - [Debugging Odd or Even](https://replit.com/@swoky/Debugging-Odd-or-Even)
-    - [Debugging Leap Year](https://replit.com/@swoky/Debuggin-Leap-Year)
-    - [Debugging FizzBuzz](https://replit.com/@swoky/Debugging-FizzBuzz)
+| Capstone Project |
+| :- |
+| [Blackjack;](https://replit.com/@swoky/Blackjack) |
 
-    Tools user for Debugging:
-    - [Python Tutor](https://pythontutor.com/)
-    - [Thonny](https://thonny.org/)
-##
-- <b>Day 14</b> - [Higher Lower Game Project](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/day-14)
+## DAY 12
+> [Scope & Number Guessing Game](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-12)
 
-    Project:
-    - [Higher Lower Game](https://replit.com/@swoky/Higher-or-Lower-Game)
-##
-- <b>Day 15</b> - [Local Development Environment Setup & the Coffee Machine](https://github.com/swokyisalreadytaken/100-Days-of-Code-in-Python/tree/main/day-15)
+| What I learned |
+| :- |
+| Namespaces: Local vs. Global Scope. |
+| Does Python Have Block Scope? |
+| How to Modify a Global Variable. |
+| Python Constants and Global Scope. |
 
-    What I learned:
-    - Download and install Python Locally;
-    - Download and install PyCharm for Windows:
-    - PyCharm's Features;
+| Project |
+| :- |
+| [Guess the Number;](https://replit.com/@swoky/Guess-the-Number) |
+
+## DAY 13
+> [Debugging: How to Find and Fix Errors in your Code](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-13)
+
+| What I learned |
+| :- |
+| Describe the Problem. |
+| Reproduce the Bug. |
+| Play Computer and Evaluate Each Line. |
+| Fix Errors and Watch for Red Underlines. |
+| Squash bugs with a print() Statement. |
+| Use a Debugger. |
+
+| Debugging Old Projects |
+| :- |
+| [Debugging Odd or Even](https://replit.com/@swoky/Debugging-Odd-or-Even) |
+| [Debugging Leap Year](https://replit.com/@swoky/Debuggin-Leap-Year) |
+| [Debugging FizzBuzz](https://replit.com/@swoky/Debugging-FizzBuzz) |
+
+| Tools user for Debugging |
+| :- |
+| [Python Tutor](https://pythontutor.com/) |
+| [Thonny](https://thonny.org/) |
+
+## DAY 14
+> [Higher Lower Game Project](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-14)
+
+| Project |
+| :- |
+| [Higher Lower Game](https://replit.com/@swoky/Higher-or-Lower-Game) |
+
+## DAY 15
+> [Local Development Environment Setup & the Coffee Machine](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-15)
+
+| What I learned |
+| :- |
+| Download and install Python Locally. |
+| Download and install PyCharm for Windows. |
+| PyCharm's Features. |
   
-    Project:
-    - [Coffee Machine](https://replit.com/@swoky/Coffee-Machine)
-##
-</details>
+| Project |
+| :- |
+| [Coffee Machine](https://replit.com/@swoky/Coffee-Machine) |
