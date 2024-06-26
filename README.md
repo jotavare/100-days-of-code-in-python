@@ -10,9 +10,14 @@
 </p>
 
 <p align="center">
+	<a href="#about">About</a> •
 	<a href="#projects">Projects</a> •
+	<a href="#contributing">Contributing</a> •
 	<a href="#license">License</a>
 </p>
+
+## ABOUT
+This repository is dedicated to documenting my journey through 100 days of learning and coding in Python. Each day focuses on different concepts and practical exercises to build a strong foundation in Python programming.
 
 ## PROJECTS
 ### DAY 1
@@ -275,7 +280,11 @@
 | :- |
 | [Coffee Machine](https://replit.com/@swoky/Coffee-Machine) |
 
+## CONTRIBUTING
+
+If you find any issues or have suggestions for improvements, feel free to fork the repository and open an issue or submit a pull request.
+
 ## LICENSE
-<p>
-This work is published under the terms of <a href="https://github.com/jotavare/100-days-of-code-in-python/blob/main/LICENSE">Unlicense</a>.
-</p>
+
+This project is available under the MIT License. For further details, please refer to the [LICENSE](https://github.com/jotavare/100-days-of-code-in-python/blob/main/LICENSE) file.
+
