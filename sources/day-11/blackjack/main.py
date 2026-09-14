@@ -1,7 +1,11 @@
 #import 'random' module, the logo from 'art.py' and 'clear()' function
+import os
 import random
-from replit import clear
 from art import logo
+
+
+def clear():
+    os.system("cls" if os.name == "nt" else "clear")
 
 #create a list with all the values of blackjack
 #10 repeats 4 times to represent queen, king and jack

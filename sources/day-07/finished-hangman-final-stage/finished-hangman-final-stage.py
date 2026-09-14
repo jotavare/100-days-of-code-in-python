@@ -2,7 +2,11 @@
 #can also use the function bellow
 #from hangman_words import word_list
 #from hangman_art import stages, logo
-from replit import clear
+import os
+
+
+def clear():
+    os.system("cls" if os.name == "nt" else "clear")
 
 import random
 import hangman_art
