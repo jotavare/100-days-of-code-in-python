@@ -1,6 +1,11 @@
 #import logo from art.py
+import os
 from art import logo
-from replit import clear
+
+
+def clear():
+    os.system("cls" if os.name == "nt" else "clear")
+
 
 print(logo)
 
