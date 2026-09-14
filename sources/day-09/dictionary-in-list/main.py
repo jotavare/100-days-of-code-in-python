@@ -10,7 +10,7 @@ travel_log = [
   "visits": 5,
   "cities": ["Berlin", "Hamburg", "Stuttgart"]
 },
-]all 
+]
 
 # define a function to add new values to travel_log
 def add_new_country(country_name, number_visits, cities_visited):
