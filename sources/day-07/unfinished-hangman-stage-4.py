@@ -2,7 +2,7 @@
 
 import random
 
-stages = ['''
+stages = [r'''
   +---+
   |   |
   O   |
@@ -10,7 +10,7 @@ stages = ['''
  / \  |
       |
 =========
-''', '''
+''', r'''
   +---+
   |   |
   O   |
@@ -18,7 +18,7 @@ stages = ['''
  /    |
       |
 =========
-''', '''
+''', r'''
   +---+
   |   |
   O   |
@@ -26,14 +26,14 @@ stages = ['''
       |
       |
 =========
-''', '''
+''', r'''
   +---+
   |   |
   O   |
  /|   |
       |
       |
-=========''', '''
+=========''', r'''
   +---+
   |   |
   O   |
@@ -41,7 +41,7 @@ stages = ['''
       |
       |
 =========
-''', '''
+''', r'''
   +---+
   |   |
   O   |
@@ -49,7 +49,7 @@ stages = ['''
       |
       |
 =========
-''', '''
+''', r'''
   +---+
   |   |
       |
@@ -64,7 +64,7 @@ word_list = ["ardvark", "baboon", "camel"]
 chosen_word = random.choice(word_list)
 word_length = len(chosen_word)
 
-#create a variable called 'lives' to keep track of the number of lives left. 
+#create a variable called 'lives' to keep track of the number of lives left.
 #Set 'lives' to equal 6.
 lives = 6
 
@@ -87,12 +87,12 @@ while not end_of_game:
             display[position] = letter
 
     #if guess is not a letter in the chosen_word,
-    #then reduce 'lives' by 1. 
+    #then reduce 'lives' by 1.
     #if lives goes down to 0 then the game should stop and it should print "You lose."
     if guess not in chosen_word:
         lives -= 1
         if lives == 0:
-            end_of_game = True  
+            end_of_game = True
             print("You Lose!")
 
     #join all the elements in the list and turn it into a String.
