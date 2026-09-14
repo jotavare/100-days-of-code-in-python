@@ -1,9 +1,13 @@
 #import 'art' and 'game_data' files
-#import replit 'clear()' and random modules
+#import os and random modules
 from art import logo, vs
 from game_data import data
-from replit import clear
+import os
 import random
+
+
+def clear():
+    os.system("cls" if os.name == "nt" else "clear")
 
 #choose a random dictionary from the list 'data' in 'game_data.py'
 #randomize two times and assign to two different variables

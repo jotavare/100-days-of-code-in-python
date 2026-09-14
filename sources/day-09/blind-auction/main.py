@@ -1,6 +1,10 @@
 # create a blind action
-from replit import clear
+import os
 from art import logo
+
+
+def clear():
+    os.system("cls" if os.name == "nt" else "clear")
 
 # print ascii logo and the game goal
 print(logo)
