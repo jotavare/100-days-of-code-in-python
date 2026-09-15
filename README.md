@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/status-ongoing-success?style=flat-square&color=203c84"/>
+	<img src="https://img.shields.io/badge/status-finished-success?style=flat-square&color=203c84"/>
 	<img src="https://img.shields.io/github/last-commit/jotavare/100-days-of-code-in-python?style=flat-square&color=203c84"/>
 	<a href='https://www.linkedin.com/in/joaoptoliveira' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
 	<a href='https://profile.intra.42.fr/users/jotavare' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
@@ -17,10 +17,7 @@
 </p>
 
 ## ABOUT
-This repository is dedicated to documenting my journey through 100 days of learning and coding in Python. Each day focuses on different concepts and practical exercises to build a strong foundation in Python programming.
-
-> [!NOTE]
-> The per-exercise Replit links below point at a Replit account (`@swoky`) that no longer exists and will 404. The actual, runnable source for every exercise and project lives in this repository under [`sources/`](https://github.com/jotavare/100-days-of-code-in-python/tree/main/sources), linked at the top of each day.
+This repository documents my journey through 100 days of learning and coding in Python. Each day focuses on different concepts and practical exercises to build a strong foundation in Python programming. Every exercise and project links directly to its source under [`sources/`](https://github.com/jotavare/100-days-of-code-in-python/tree/main/sources).
 
 ## PROJECTS
 ### DAY 1
@@ -36,14 +33,14 @@ This repository is dedicated to documenting my journey through 100 days of learn
 
 | Exercises |
 | :- |
-| [Print 3 Example Quotes](https://replit.com/@swoky/Print-Example-Quotes) |
-| [Debugging Practice - Fix the code](https://replit.com/@swoky/Fix-the-code) |
-| [Print the number of characters in a name](https://replit.com/@swoky/Print-Number-of-Characters-in-a-Name) |
-| [Write a program that switches variables](https://replit.com/@swoky/Switch-Variables) |
+| [Print 3 Example Quotes](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-01/print-example-quotes.py) |
+| [Debugging Practice - Fix the code](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-01/fix-the-code.py) |
+| [Print the number of characters in a name](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-01/print-number-of-characters-in-a-name.py) |
+| [Write a program that switches variables](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-01/switch-variables.py) |
 
 | Project |
 | :- |
-| [Create a Band Name Generator](https://replit.com/@swoky/Band-Name-Generator) |
+| [Create a Band Name Generator](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-01/band-name-generator.py) |
 
 ### DAY 2
 > [Understanding Data Types and How to Manipulate Strings](https://github.com/jotavare/100-days-of-code-in-python/tree/main/sources/day-02)
@@ -58,13 +55,13 @@ This repository is dedicated to documenting my journey through 100 days of learn
 
 | Exercises |
 | :- |
-| [Add the digits in a 2 digit number](https://replit.com/@swoky/Sum-Two-Digit-Number) |
-| [Body Mass Index (BMI) calculator](https://replit.com/@swoky/BMI-Calculator) |
-| [Life in weeks calculator (until 90 years old)](https://replit.com/@swoky/My-Life-in-Days-Weeks-and-Months) |
+| [Add the digits in a 2 digit number](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-02/sum-two-digit-number.py) |
+| [Body Mass Index (BMI) calculator](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-02/bmi-calculator.py) |
+| [Life in weeks calculator (until 90 years old)](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-02/my-life-in-days-weeks-months.py) |
 
 | Project |
 | :- |
-| [Tip Calculator](https://replit.com/@swoky/Tip-Calculator) |
+| [Tip Calculator](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-02/tip-calculator.py) |
 
 ### DAY 3
 > [Control Flow and Logical Operators](https://github.com/jotavare/100-days-of-code-in-python/tree/main/sources/day-03)
@@ -77,15 +74,15 @@ This repository is dedicated to documenting my journey through 100 days of learn
 
 | Exercises |
 | :- |
-| [Odd and Even Number Checker](https://replit.com/@swoky/Odd-and-Even-Number-Check) |
-| [BMI Calculator with Interpretation](https://replit.com/@swoky/BMI-Calculator-Interpretation) |
-| [Leap Year Checker](https://replit.com/@swoky/Leap-Year-Check) |
-| [Automatic Pizza Order Program](https://replit.com/@swoky/Automatic-Pizza-Order-Program) |
-| [Love Calculator](https://replit.com/@swoky/Love-Calculator) |
+| [Odd and Even Number Checker](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-03/odd-even-number-check.py) |
+| [BMI Calculator with Interpretation](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-03/bmi-calculator-interpretation.py) |
+| [Leap Year Checker](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-03/leap-year-check.py) |
+| [Automatic Pizza Order Program](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-03/automatic-pizza-order-program.py) |
+| [Love Calculator](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-03/love-calculator.py) |
 
 | Project |
 | :- |
-| [Treasure Island game](https://replit.com/@swoky/Treasure-Island-Game) |
+| [Treasure Island game](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-03/treasure-island-game.py) |
 
 ### DAY 4
 > [Randomisation and Python Lists](https://github.com/jotavare/100-days-of-code-in-python/tree/main/sources/day-04)
@@ -98,13 +95,13 @@ This repository is dedicated to documenting my journey through 100 days of learn
 
 | Exercises |
 | :- |
-| [Virtual Coin Toss - Heads or Tails](https://replit.com/@swoky/Virtual-Coin-Toss-Program-Heads-or-Tails) |
-| [Banker Rouletter - Who pays the bill](https://replit.com/@swoky/Bank-Rouletter-Who-pays-the-bill) |
-| [Treasure Map](https://replit.com/@swoky/Treasure-Map-Mark-with-X) |
+| [Virtual Coin Toss - Heads or Tails](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-04/virtual-coin-toss-program-heads-or-tails.py) |
+| [Banker Rouletter - Who pays the bill](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-04/bank-rouletter-who-pays-the-bill.py) |
+| [Treasure Map](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-04/treasure-map-mark-with-x.py) |
     
 | Project |
 | :- |
-| [Rock, Paper, Scissors](https://replit.com/@swoky/Rock-Paper-Scissors) |
+| [Rock, Paper, Scissors](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-04/rock-paper-scissors.py) |
 
 ### DAY 5
 > [Python Loops](https://github.com/jotavare/100-days-of-code-in-python/tree/main/sources/day-05)
@@ -116,14 +113,14 @@ This repository is dedicated to documenting my journey through 100 days of learn
 
 | Exercises |
 | :- |
-| [Average Height Calculator](https://replit.com/@swoky/Average-Height-Calculator) |
-| [Highest Student Score](https://replit.com/@swoky/Highest-Student-Score) |
-| [Adding Even Numbers](https://replit.com/@swoky/Sum-of-All-Even-Numbers-1-100) |
-| [The FizzBuzz Challenge](https://replit.com/@swoky/Solution-to-FizzBuzz-Game) |
+| [Average Height Calculator](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-05/average-height-calculator.py) |
+| [Highest Student Score](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-05/highest-student-score.py) |
+| [Adding Even Numbers](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-05/sum-all-even-numbers.py) |
+| [The FizzBuzz Challenge](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-05/solution-fizz-buzz-game.py) |
 
 | Project |
 | :- |
-| [Create a Password Generator](https://replit.com/@swoky/Password-Generator) |
+| [Create a Password Generator](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-05/password-generator.py) |
 
 ### DAY 6
 > [Python Functions & Karel](https://github.com/jotavare/100-days-of-code-in-python/tree/main/sources/day-06)
@@ -155,14 +152,14 @@ This repository is dedicated to documenting my journey through 100 days of learn
 
 | Exercises |
 | :- |
-| [Picking a Random Word and Checking Answers](https://replit.com/@swoky/Unfinished-Hangman-Stage-1) |
-| [Replacing Blanks with Guesses](https://replit.com/@swoky/Unfinished-Hangman-Stage-2) |
-| [Checking if the Player has Won](https://replit.com/@swoky/Unfinished-Hangman-Stage-3) |
-| [Keeping Track of the Player's Lives](https://replit.com/@swoky/Unfinished-Hangman-Stage-4) |
+| [Picking a Random Word and Checking Answers](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-07/unfinished-Hangman-Stage-1.py) |
+| [Replacing Blanks with Guesses](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-07/unfinished-hangman-stage-2.py) |
+| [Checking if the Player has Won](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-07/unfinished-hangman-stage-3.py) |
+| [Keeping Track of the Player's Lives](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-07/unfinished-hangman-stage-4.py) |
 
 | Project |
 | :- |
-| [Hangman Game - Final Stage](https://replit.com/@swoky/Finished-Hangman-Final-Stage) |
+| [Hangman Game - Final Stage](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-07/finished-hangman-final-stage/finished-hangman-final-stage.py) |
 
 ### DAY 8
 > [Function Parameters & Caesar Cipher](https://github.com/jotavare/100-days-of-code-in-python/tree/main/sources/day-08)
@@ -174,12 +171,12 @@ This repository is dedicated to documenting my journey through 100 days of learn
 
 | Exercises |
 | :- |
-| [Paint Area Calculator](https://replit.com/@swoky/Paint-Area-Calculator) |
-| [Prime Number Checker](https://replit.com/@swoky/Prime-Number-Checker) |
+| [Paint Area Calculator](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-08/paint-area-calculator/main.py) |
+| [Prime Number Checker](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-08/prime-number-checker/main.py) |
 
 | Project |
 | :- |
-| [Caesar Cipher (Encrypt and decrypt messages)](https://replit.com/@swoky/Caesar-Cipher-EncryptDecrypt) |
+| [Caesar Cipher (Encrypt and decrypt messages)](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-08/caesar-cipher-encrypt-and-decrypt/main.py) |
 
 ### DAY 9
 > [Beginner - Dictionaries, Nesting and the Secret Auction](https://github.com/jotavare/100-days-of-code-in-python/tree/main/sources/day-09)
@@ -191,12 +188,12 @@ This repository is dedicated to documenting my journey through 100 days of learn
 
 | Exercises |
 | :- |
-| [Grading Program](https://replit.com/@swoky/Grading-Program) |
-| [Dictionary in List](https://replit.com/@swoky/Dictionary-in-List) |
+| [Grading Program](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-09/grading-program/main.py) |
+| [Dictionary in List](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-09/dictionary-in-list/main.py) |
 
 | Project |
 | :- |
-| [Blind Auction](https://replit.com/@swoky/Blind-Auction) |
+| [Blind Auction](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-09/blind-auction/main.py) |
 
 ### DAY 10
 > [Functions with Outputs](https://github.com/jotavare/100-days-of-code-in-python/tree/main/sources/day-10)
@@ -212,19 +209,19 @@ This repository is dedicated to documenting my journey through 100 days of learn
 
 | Exercises |
 | :- |
-| [Upper Case First Letter](https://replit.com/@swoky/Upper-Case-First-Letter) |
-| [Days in Month](https://replit.com/@swoky/Days-in-Month) |
+| [Upper Case First Letter](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-10/upper-case-first-letter/main.py) |
+| [Days in Month](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-10/days-in-month/main.py) |
 
 | Project |
 | :- |
-| [Calculator](https://replit.com/@swoky/Calculator) |
+| [Calculator](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-10/calculator/main.py) |
 
 ### DAY 11
 > [The Blackjack Capstone Project](https://github.com/jotavare/100-days-of-code-in-python/tree/main/sources/day-11)
 
 | Capstone Project |
 | :- |
-| [Blackjack;](https://replit.com/@swoky/Blackjack) |
+| [Blackjack;](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-11/blackjack/main.py) |
 
 ### DAY 12
 > [Scope & Number Guessing Game](https://github.com/jotavare/100-days-of-code-in-python/tree/main/sources/day-12)
@@ -238,7 +235,7 @@ This repository is dedicated to documenting my journey through 100 days of learn
 
 | Project |
 | :- |
-| [Guess the Number](https://replit.com/@swoky/Guess-the-Number) |
+| [Guess the Number](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-12/guess-the-number/main.py) |
 
 ### DAY 13
 > [Debugging: How to Find and Fix Errors in your Code](https://github.com/jotavare/100-days-of-code-in-python/tree/main/sources/day-13)
@@ -254,9 +251,9 @@ This repository is dedicated to documenting my journey through 100 days of learn
 
 | Debugging Old Projects |
 | :- |
-| [Debugging Odd or Even](https://replit.com/@swoky/Debugging-Odd-or-Even) |
-| [Debugging Leap Year](https://replit.com/@swoky/Debuggin-Leap-Year) |
-| [Debugging FizzBuzz](https://replit.com/@swoky/Debugging-FizzBuzz) |
+| [Debugging Odd or Even](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-13/debugging-odd-or-even/main.py) |
+| [Debugging Leap Year](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-13/debuggin-leap-year/main.py) |
+| [Debugging FizzBuzz](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-13/debugging-fizzbuzz/main.py) |
 
 | Tools user for Debugging |
 | :- |
@@ -268,7 +265,7 @@ This repository is dedicated to documenting my journey through 100 days of learn
 
 | Project |
 | :- |
-| [Higher Lower Game](https://replit.com/@swoky/Higher-or-Lower-Game) |
+| [Higher Lower Game](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-14/higher-or-lower-game/main.py) |
 
 ### DAY 15
 > [Local Development Environment Setup & the Coffee Machine](https://github.com/jotavare/100-days-of-code-in-python/tree/main/sources/day-15)
@@ -281,11 +278,11 @@ This repository is dedicated to documenting my journey through 100 days of learn
   
 | Project |
 | :- |
-| [Coffee Machine](https://replit.com/@swoky/Coffee-Machine) |
+| [Coffee Machine](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-15/coffee-machine/main.py) |
 
 ## CONTRIBUTING
 
-If you find any issues or have suggestions for improvements, feel free to fork the repository and open an issue or submit a pull request.
+Issues and pull requests are welcome.
 
 ## LICENSE
 
