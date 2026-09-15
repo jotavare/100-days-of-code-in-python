@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/status-ongoing-sucess?style=flat-square&color=203c84"/>
+	<img src="https://img.shields.io/badge/status-ongoing-success?style=flat-square&color=203c84"/>
 	<img src="https://img.shields.io/github/last-commit/jotavare/100-days-of-code-in-python?style=flat-square&color=203c84"/>
 	<a href='https://www.linkedin.com/in/joaoptoliveira' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
 	<a href='https://profile.intra.42.fr/users/jotavare' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
@@ -19,9 +19,12 @@
 ## ABOUT
 This repository is dedicated to documenting my journey through 100 days of learning and coding in Python. Each day focuses on different concepts and practical exercises to build a strong foundation in Python programming.
 
+> [!NOTE]
+> The per-exercise Replit links below point at a Replit account (`@swoky`) that no longer exists and will 404. The actual, runnable source for every exercise and project lives in this repository under [`sources/`](https://github.com/jotavare/100-days-of-code-in-python/tree/main/sources), linked at the top of each day.
+
 ## PROJECTS
 ### DAY 1
-> [Working with Variables in Python to Manage Data](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-01)
+> [Working with Variables in Python to Manage Data](https://github.com/jotavare/100-days-of-code-in-python/tree/main/sources/day-01)
 
 | What I learned |
 | :- |
@@ -43,7 +46,7 @@ This repository is dedicated to documenting my journey through 100 days of learn
 | [Create a Band Name Generator](https://replit.com/@swoky/Band-Name-Generator) |
 
 ### DAY 2
-> [Understanding Data Types and How to Manipulate Strings](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-02)
+> [Understanding Data Types and How to Manipulate Strings](https://github.com/jotavare/100-days-of-code-in-python/tree/main/sources/day-02)
 
 | What I learned |
 | :- |
@@ -64,7 +67,7 @@ This repository is dedicated to documenting my journey through 100 days of learn
 | [Tip Calculator](https://replit.com/@swoky/Tip-Calculator) |
 
 ### DAY 3
-> [Control Flow and Logical Operators](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-03)
+> [Control Flow and Logical Operators](https://github.com/jotavare/100-days-of-code-in-python/tree/main/sources/day-03)
 
 | What I learned |
 | :- |
@@ -85,7 +88,7 @@ This repository is dedicated to documenting my journey through 100 days of learn
 | [Treasure Island game](https://replit.com/@swoky/Treasure-Island-Game) |
 
 ### DAY 4
-> [Randomisation and Python Lists](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-04)
+> [Randomisation and Python Lists](https://github.com/jotavare/100-days-of-code-in-python/tree/main/sources/day-04)
 
 | What I learned |
 | :- |
@@ -104,7 +107,7 @@ This repository is dedicated to documenting my journey through 100 days of learn
 | [Rock, Paper, Scissors](https://replit.com/@swoky/Rock-Paper-Scissors) |
 
 ### DAY 5
-> [Python Loops](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-05)
+> [Python Loops](https://github.com/jotavare/100-days-of-code-in-python/tree/main/sources/day-05)
 
 | What I learned |
 | :- |
@@ -123,7 +126,7 @@ This repository is dedicated to documenting my journey through 100 days of learn
 | [Create a Password Generator](https://replit.com/@swoky/Password-Generator) |
 
 ### DAY 6
-> [Python Functions & Karel](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-06)
+> [Python Functions & Karel](https://github.com/jotavare/100-days-of-code-in-python/tree/main/sources/day-06)
 
 | What I learned |
 | :- |
@@ -133,18 +136,18 @@ This repository is dedicated to documenting my journey through 100 days of learn
 
 | Challenges |
 | :- |
-| [Reeborgs Wolrd Challenge 1](https://lnkd.in/gMVk8VDA) |
-| [Reeborgs Wolrd Challenge 2](https://lnkd.in/ggaN6aVb) |
-| [Reeborgs Wolrd Challenge 3](https://lnkd.in/gJ5uVR3q) |
-| [Reeborgs Wolrd Challenge 4](https://lnkd.in/g4Y3ED3H) |
-| [Reeborgs Wolrd Challenge 5](https://lnkd.in/gJY5jB8h) |
+| [Reeborgs World Challenge 1](https://lnkd.in/gMVk8VDA) |
+| [Reeborgs World Challenge 2](https://lnkd.in/ggaN6aVb) |
+| [Reeborgs World Challenge 3](https://lnkd.in/gJ5uVR3q) |
+| [Reeborgs World Challenge 4](https://lnkd.in/g4Y3ED3H) |
+| [Reeborgs World Challenge 5](https://lnkd.in/gJY5jB8h) |
     
 | Final Challenge |
 | :- |
-| [Reeborgs Wolrd Challenge Maze](https://lnkd.in/gf6sSEPM) |
+| [Reeborgs World Challenge Maze](https://lnkd.in/gf6sSEPM) |
 
 ### DAY 7
-> [Hangman](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-07)
+> [Hangman](https://github.com/jotavare/100-days-of-code-in-python/tree/main/sources/day-07)
 
 | What I learned |
 | :- |
@@ -162,7 +165,7 @@ This repository is dedicated to documenting my journey through 100 days of learn
 | [Hangman Game - Final Stage](https://replit.com/@swoky/Finished-Hangman-Final-Stage) |
 
 ### DAY 8
-> [Function Parameters & Caesar Cipher](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-08)
+> [Function Parameters & Caesar Cipher](https://github.com/jotavare/100-days-of-code-in-python/tree/main/sources/day-08)
 
 | What I learned |
 | :- |
@@ -179,7 +182,7 @@ This repository is dedicated to documenting my journey through 100 days of learn
 | [Caesar Cipher (Encrypt and decrypt messages)](https://replit.com/@swoky/Caesar-Cipher-EncryptDecrypt) |
 
 ### DAY 9
-> [Beginner - Dictionaries, Nesting and the Secret Auction](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-09)
+> [Beginner - Dictionaries, Nesting and the Secret Auction](https://github.com/jotavare/100-days-of-code-in-python/tree/main/sources/day-09)
 
 | What I learned |
 | :- |
@@ -196,7 +199,7 @@ This repository is dedicated to documenting my journey through 100 days of learn
 | [Blind Auction](https://replit.com/@swoky/Blind-Auction) |
 
 ### DAY 10
-> [Functions with Outputs](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-10)
+> [Functions with Outputs](https://github.com/jotavare/100-days-of-code-in-python/tree/main/sources/day-10)
 
 | What I learned |
 | :- |
@@ -217,14 +220,14 @@ This repository is dedicated to documenting my journey through 100 days of learn
 | [Calculator](https://replit.com/@swoky/Calculator) |
 
 ### DAY 11
-> [The Blackjack Capstone Project](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-11)
+> [The Blackjack Capstone Project](https://github.com/jotavare/100-days-of-code-in-python/tree/main/sources/day-11)
 
 | Capstone Project |
 | :- |
 | [Blackjack;](https://replit.com/@swoky/Blackjack) |
 
 ### DAY 12
-> [Scope & Number Guessing Game](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-12)
+> [Scope & Number Guessing Game](https://github.com/jotavare/100-days-of-code-in-python/tree/main/sources/day-12)
 
 | What I learned |
 | :- |
@@ -238,7 +241,7 @@ This repository is dedicated to documenting my journey through 100 days of learn
 | [Guess the Number](https://replit.com/@swoky/Guess-the-Number) |
 
 ### DAY 13
-> [Debugging: How to Find and Fix Errors in your Code](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-13)
+> [Debugging: How to Find and Fix Errors in your Code](https://github.com/jotavare/100-days-of-code-in-python/tree/main/sources/day-13)
 
 | What I learned |
 | :- |
@@ -261,14 +264,14 @@ This repository is dedicated to documenting my journey through 100 days of learn
 | [Thonny](https://thonny.org/) |
 
 ### DAY 14
-> [Higher Lower Game Project](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-14)
+> [Higher Lower Game Project](https://github.com/jotavare/100-days-of-code-in-python/tree/main/sources/day-14)
 
 | Project |
 | :- |
 | [Higher Lower Game](https://replit.com/@swoky/Higher-or-Lower-Game) |
 
 ### DAY 15
-> [Local Development Environment Setup & the Coffee Machine](https://github.com/jotavare/100-days-of-code-in-python/tree/main/100_days_of_code_in_python/day-15)
+> [Local Development Environment Setup & the Coffee Machine](https://github.com/jotavare/100-days-of-code-in-python/tree/main/sources/day-15)
 
 | What I learned |
 | :- |
