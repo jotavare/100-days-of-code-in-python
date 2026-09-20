@@ -1,10 +1,10 @@
 # write a program that calculates the Body Mass Index (BMI)
 
-# we ask for the ouput and assign a variable
+# we ask for the output and assign a variable
 height = input("Enter your height in m: ")
 weight = input("Enter your weight in kg: ")
 
-# convert the heigh and weight to float and integer types
+# convert the height and weight to float and integer types
 height_float = float(height)
 weight_int = int(weight)
 

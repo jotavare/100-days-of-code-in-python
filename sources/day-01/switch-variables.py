@@ -1,4 +1,4 @@
-# can't change the code bellow
+# can't change the code below
 a = input("a: ")
 b = input("b: ")
 
@@ -8,6 +8,6 @@ second = b
 b = first
 a = second
 
-# print teh new variables
+# print the new variables
 print("a: " + a)
 print("b: " + b)

@@ -1,11 +1,11 @@
 # can't use len() and sum() functions, use loop functions
-# calculate the avarege height
-# ask the user for input (can't change the code bellow)
+# calculate the average height
+# ask the user for input (can't change the code below)
 student_heights = input("Input a list of student heights in cm, separated by spaces.\n").split()
 for n in range(0, len(student_heights)):
   student_heights[n] = int(student_heights[n])
 
-# use a loop to sum all the numbers inputed
+# use a loop to sum all the numbers inputted
 total_height = 0
 
 for height in student_heights:

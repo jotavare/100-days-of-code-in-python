@@ -52,7 +52,7 @@ def calculator():
     #define should_continue as true
     should_continue = True
 
-    #create a loop based on should_continue bolean value
+    #create a loop based on should_continue boolean value
     while should_continue:
         #ask the user to choose one of the operators
         operation_symbol = input("Pick an operation: ")

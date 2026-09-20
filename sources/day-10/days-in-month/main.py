@@ -1,6 +1,6 @@
 #create a function that check if it's leap year or not
 def is_leap(year):
-    """Take the inputed year and output True if is
+    """Take the inputted year and output True if is
     leap year and False if is not leap year."""
     if year % 4 == 0:
         if year % 100 == 0:
@@ -16,7 +16,7 @@ def is_leap(year):
 
 #create a function that will write the correct number of days
 def days_in_month(year, month):
-    """Take the inputed year and month, check if
+    """Take the inputted year and month, check if
     the month is not > 12 or < 1. Also, will use
     the function is_leap() and output the correct
     number of days"""
@@ -28,7 +28,7 @@ def days_in_month(year, month):
     return month_days[month - 1]
 
 
-#print welcome messsage
+#print welcome message
 print(
     "Type the year and month you want to check (e.g. year = 2145) (e.g. month = 3)."
 )

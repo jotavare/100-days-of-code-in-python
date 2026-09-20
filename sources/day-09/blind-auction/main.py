@@ -21,7 +21,7 @@ bidding_finished = False
 # define a function
 def find_highest_bidder(bidding_record):
 
-    # set the highest bid as 0 and create a winner atribute
+    # set the highest bid as 0 and create a winner attribute
     highest_bid = 0
     winner = ""
 

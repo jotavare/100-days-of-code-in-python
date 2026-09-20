@@ -1,5 +1,5 @@
 # the same code from "Hurdle 4" can be use in this one "Maze"
-# theres one case where the robot will do a infinite loop - try again at day 15
+# there's one case where the robot will do a infinite loop - try again at day 15
 # define function turn right
 def turn_right():
     turn_left()

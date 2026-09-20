@@ -1,5 +1,5 @@
 #final step of hangman
-#can also use the function bellow
+#can also use the function below
 #from hangman_words import word_list
 #from hangman_art import stages, logo
 import os
@@ -13,7 +13,7 @@ import hangman_art
 import hangman_words
 
 #update the word list to use the 'word_list' from hangman_words.py
-#delete this line: word_list = ["ardvark", "baboon", "camel"]
+#delete this line: word_list = ["aardvark", "baboon", "camel"]
 chosen_word = random.choice(hangman_words.word_list)
 word_length = len(chosen_word)
 
