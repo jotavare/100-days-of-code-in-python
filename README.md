@@ -2,13 +2,6 @@
   <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/python/github_python_banner_python.png">
 </p>
 
-<p align="center">
-	<img src="https://img.shields.io/badge/status-finished-success?style=flat-square&color=203c84"/>
-	<img src="https://img.shields.io/github/last-commit/jotavare/100-days-of-code-in-python?style=flat-square&color=203c84"/>
-	<a href='https://www.linkedin.com/in/jotavare' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-blue?style=flat-square'/></a>
-	<a href='https://profile.intra.42.fr/users/jotavare' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
-</p>
-
 ## ABOUT
 This repository documents my journey through 100 days of learning and coding in Python. Each day focuses on different concepts and practical exercises to build a strong foundation in Python programming. Every exercise and project links directly to its source under [`sources/`](https://github.com/jotavare/100-days-of-code-in-python/tree/main/sources).
 
