@@ -1,6 +1,6 @@
 #Password Generator Project
 
-#Eazy Level - Order not randomised:
+#Easy Level - Order not randomised:
 #e.g. 4 letter, 2 symbol, 2 number = JduE&!91
 
 #Hard Level - Order of characters randomised:

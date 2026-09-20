@@ -12,5 +12,5 @@ print("Transform the first letter in each word upper case.")
 f_name = input("What's your first name?\n")
 l_name = input("What's your last name?\n")
 
-#print the ouput result
+#print the output result
 print(f"Result: \n{format_name(f_name, l_name)}")

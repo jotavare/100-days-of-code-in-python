@@ -5,15 +5,8 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/status-finished-success?style=flat-square&color=203c84"/>
 	<img src="https://img.shields.io/github/last-commit/jotavare/100-days-of-code-in-python?style=flat-square&color=203c84"/>
-	<a href='https://www.linkedin.com/in/joaoptoliveira' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
+	<a href='https://www.linkedin.com/in/jotavare' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-blue?style=flat-square'/></a>
 	<a href='https://profile.intra.42.fr/users/jotavare' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
-</p>
-
-<p align="center">
-	<a href="#about">About</a> •
-	<a href="#projects">Projects</a> •
-	<a href="#contributing">Contributing</a> •
-	<a href="#license">License</a>
 </p>
 
 ## ABOUT
@@ -98,7 +91,7 @@ This repository documents my journey through 100 days of learning and coding in 
 | [Virtual Coin Toss - Heads or Tails](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-04/virtual-coin-toss-program-heads-or-tails.py) |
 | [Banker Rouletter - Who pays the bill](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-04/bank-rouletter-who-pays-the-bill.py) |
 | [Treasure Map](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-04/treasure-map-mark-with-x.py) |
-    
+
 | Project |
 | :- |
 | [Rock, Paper, Scissors](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-04/rock-paper-scissors.py) |
@@ -138,7 +131,7 @@ This repository documents my journey through 100 days of learning and coding in 
 | [Reeborgs World Challenge 3](https://lnkd.in/gJ5uVR3q) |
 | [Reeborgs World Challenge 4](https://lnkd.in/g4Y3ED3H) |
 | [Reeborgs World Challenge 5](https://lnkd.in/gJY5jB8h) |
-    
+
 | Final Challenge |
 | :- |
 | [Reeborgs World Challenge Maze](https://lnkd.in/gf6sSEPM) |
@@ -255,7 +248,7 @@ This repository documents my journey through 100 days of learning and coding in 
 | [Debugging Leap Year](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-13/debuggin-leap-year/main.py) |
 | [Debugging FizzBuzz](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-13/debugging-fizzbuzz/main.py) |
 
-| Tools user for Debugging |
+| Tools used for Debugging |
 | :- |
 | [Python Tutor](https://pythontutor.com/) |
 | [Thonny](https://thonny.org/) |
@@ -275,16 +268,7 @@ This repository documents my journey through 100 days of learning and coding in 
 | Download and install Python Locally |
 | Download and install PyCharm for Windows |
 | PyCharm's Features |
-  
+
 | Project |
 | :- |
 | [Coffee Machine](https://github.com/jotavare/100-days-of-code-in-python/blob/main/sources/day-15/coffee-machine/main.py) |
-
-## CONTRIBUTING
-
-Issues and pull requests are welcome.
-
-## LICENSE
-
-This project is available under the MIT License. For further details, please refer to the [LICENSE](https://github.com/jotavare/100-days-of-code-in-python/blob/main/LICENSE) file.
-

@@ -13,12 +13,12 @@ difficulty = input("Choose a difficulty. Type 'easy' or 'hard': ")
 #create a variable with a random number (1-100)
 random_number = random.randint(1, 100)
 
-#number of attemps the user as
+#number of attempts the user as
 attempts = 0
 
 
 #define how many attempts the user based on answer
-def lifes():
+def lives():
     #transform "attempts" in a global variable
     global attempts
 
@@ -77,5 +77,5 @@ def compare():
 
 #call both functions
 #by printing the function i am also returning the value
-print(lifes())
+print(lives())
 compare()

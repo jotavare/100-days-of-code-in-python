@@ -1,7 +1,7 @@
 #step 3 of Hangman
-#import module, create list, randomize and lenght the chosen word
+#import module, create list, randomize and length the chosen word
 import random
-word_list = ["aardvark", "baboon", "camel"]
+word_list = ["aaardvark", "baboon", "camel"]
 chosen_word = random.choice(word_list)
 word_length = len(chosen_word)
 

@@ -15,7 +15,7 @@ def loop():
     move()
     turn_left()
     
-# created a while loop and stoped at the flag
+# created a while loop and stopped at the flag
 number_of_hurdles = 6
 while number_of_hurdles > 0:
     while at_goal() == True:

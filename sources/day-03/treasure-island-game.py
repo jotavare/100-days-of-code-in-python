@@ -43,7 +43,7 @@ elif answer1 == "B":
   if answer1 == "B":
     if answer2 == "A":
       print("\nYou try to get out of the forest, but you slip and fall in a cave breaking your legs.\n")
-      print("To your suprise the bear runs away, but you hear steps and a big sound echoes through the cave... 'ROAAAAARRR'. A lion appears and kills you!")
+      print("To your surprise the bear runs away, but you hear steps and a big sound echoes through the cave... 'ROAAAAARRR'. A lion appears and kills you!")
       print("Game Over! Sorry :/")
     elif answer2 == "B":
       print("As you continue running, you find a old house, and inside you see a bright light.\n")

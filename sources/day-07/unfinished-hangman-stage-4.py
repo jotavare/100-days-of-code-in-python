@@ -60,7 +60,7 @@ stages = [r'''
 ''']
 
 end_of_game = False
-word_list = ["ardvark", "baboon", "camel"]
+word_list = ["aardvark", "baboon", "camel"]
 chosen_word = random.choice(word_list)
 word_length = len(chosen_word)
 

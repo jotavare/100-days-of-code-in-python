@@ -11,5 +11,5 @@ string_second_number = number[1]
 first_number = int(string_first_number)
 second_number = int(string_second_number)
 
-# prints the sum and gives the ouput
+# prints the sum and gives the output
 print("Adding the two digits, gives a total of:", first_number + second_number)
